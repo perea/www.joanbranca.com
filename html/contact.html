@@ -87,8 +87,9 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 }
 
 /* ~~ This grouped selector gives the lists in the .content area space ~~ */
-.content ul, .content ol { 
+.content ul, .content ol {
 	padding: 0 15px 15px 40px; /* this padding mirrors the right padding in the headings and paragraph rule above. Padding was placed on the bottom for space between other elements on the lists and on the left to create the indention. These may be adjusted as you wish. */
+	text-align: left;
 }
 
 /* ~~ The navigation list styles (can be removed if you choose to use a premade flyout menu like Spry) ~~ */
@@ -195,6 +196,9 @@ a:active {
 	clear: both; /* this clear property forces the .container to understand where the columns end and contain them */
 	background-color: #FFFFFF;
 }
+.container .content div p {
+	text-align: center;
+}
 -->
 </style></head>
 
@@ -211,7 +215,7 @@ a:active {
     <ul class="nav2">
       <li><a href="about.html">About</a></li>
       <li><a href="galleries.html">Galleries</a></li>
-      <li><a href="http://www.joanbranca.wordpress.com/">Recent</a></li>
+      <li><a href="gallery_Recent.html">Recent</a></li>
       <li><a href="contact.html">Contact</a></li>
       <li> </li>
     </ul>
@@ -219,10 +223,22 @@ a:active {
     <!-- end .sidebar1 --></div>
   <div class="content">
     <h1>Contact</h1>
-    <p>Email: <a href="mailto:info@joanbranca.com">info@JoanBranca.com</a></p>
-    <p>WordPress: <a href="http://www.joanbranca.wordpress.com/">JoanBranca.wordpress.com</a></p>
-    <p>&nbsp;</p>
-  <!-- end .content --></div>
+    <p><strong>Email:</strong> <a href="mailto:info@joanbranca.com">info@JoanBranca.com</a></p>
+    <p><strong>WordPress:</strong> <a href="http://www.joanbranca.wordpress.com/">JoanBranca.wordpress.com</a></p>
+    <p><strong>Galleries:</strong><ul> <li><a href="http://www.gallerynorth.org">GalleryNorth.org</a></li> <li><a href="http://islesfordartists.com/Islesford_Artists/Home.html">Islesford Artists Gallery</a></li>
+      </ul>
+    <p><strong>Workshops: </strong></p>
+    <div></div>
+    <div>
+      <p align="center">TUSCANY:  A JOURNEY FOR THE SENSES,  LLC</p>
+      <p align="center">presents</p>
+      <p align="center">PLEIN AIR/ PLEIN EAU WORKSHOP WITH JOAN BRANCA</p>
+      <p align="center">AUGUST 8 -10, 2012</p>
+      <p align="center">CAPE COD, MA</p>
+      <p>                                                  Enjoy the magic of plein air painting in an informative and fun workshop as we capture the mood and unique light of the Cape Cod landscape. This workshop is designed for all levels of students who want to translate their visual experience into a plein air painting.</p>
+    </div>
+    <p><!-- end .content --></p>
+  </div>
   <div class="footer1">
     <p>© Copyright 2012</p>
     <!-- end .footer -->
