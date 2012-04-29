@@ -14,6 +14,7 @@ body {
 	background-color: #FFF;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 95%;
+	color-profile: #000;
 }
 
 /* ~~ Element/tag selectors ~~ */
@@ -35,11 +36,11 @@ a img { /* this selector removes the default blue border displayed in some brows
 
 /* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
 a:link {
-	color: #000000;
+	color: #00F;
 	text-decoration: none; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
 }
 a:visited {
-	color: #000000;
+	color: #00F;
 	text-decoration: none;
 }
 a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
@@ -76,6 +77,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	width: 180px;
 	background: #FFF;
 	padding-bottom: 10px;
+	color: #000
 }
 .content {
 	padding: 10px 0;
@@ -118,10 +120,12 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 ul.nav2 {
 	list-style: none; /* this removes the list marker */
 	border-top: 1px solid #000000; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
+	color: #000;
 	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
 }
 ul.nav2 li {
 	border-bottom: 1px solid #00000; /* this creates the button separation */
+	color: #000;
 }
 ul.nav2 a, ul.nav a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
 	padding: 5px 5px 5px 15px;
@@ -132,7 +136,7 @@ ul.nav2 a, ul.nav a:visited { /* grouping these selectors makes sure that your l
 }
 ul.nav2 a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
 	background: #FFFFFF;
-	color: #333;
+	color: #000;
 }
 
 /* ~~ The footer ~~ */
@@ -171,6 +175,7 @@ a:hover {
 }
 a:active {
 	text-decoration: none;
+	color: #00F;
 }
 .container .content table {
 	text-align: center;
