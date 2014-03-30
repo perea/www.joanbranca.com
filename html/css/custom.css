@@ -161,3 +161,7 @@ td.next {
 div.imageNav table, div.imageNav table tbody, div.imageName table tbody tr{
     width:15%;   
 }
+
+div#cv.thirteen.columns.leftAlign {
+    margin-left:12%;   
+}
