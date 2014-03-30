@@ -2,15 +2,79 @@ var allImages = {
     "galleries" : [
         {
              "title" : "Recent",
-               "url" : "/portfolio#recent",
+               "url" : "portfolio.html#recent",
             "images" : [
+                {
+                     "fullURL" : "imgs/recent/full/2-1.Warm October.8x10.5.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/2-1.Warm October.8x10.5.oil.png",
+                       "title" : "Warm October",
+                      "medium" : "Oil",
+                        "size" : "8x10",
+                       "index" : "#0:1"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/2-2.endOfSeptember.png",
+                    "smallURL" : "imgs/recent/150_sq/2-2.endOfSeptember.png",
+                       "title" : "End of September",
+                      "medium" : "Oil",
+                        "size" : "8x10.5",
+                       "index" : "#0:2"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/2-3.Golden light.8x10.5.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/2-3.Golden light.8x10.5.oil.png",
+                       "title" : "Golden Light",
+                      "medium" : "Oil",
+                        "size" : "8x10.5",
+                       "index" : "#0:3"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/2-4.Marsh light.8x10.5.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/2-4.Marsh light.8x10.5.oil.png",
+                       "title" : "Marsh Light",
+                      "medium" : "Oil",
+                        "size" : "8x10.5",
+                       "index" : "#0:4"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/1-1.Through the Marsh Grass22x28.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/1-1.Through the Marsh Grass22x28.oil.png",
+                       "title" : "Through the Marsh Grass",
+                      "medium" : "Oil",
+                        "size" : "22x28",
+                       "index" : "#0:5"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/1-2.Through the Leaves.21x29.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/1-2.Through the Leaves.21x29.oil.png",
+                       "title" : "Through the Leaves",
+                      "medium" : "Oil",
+                        "size" : "21x29",
+                       "index" : "#0:6"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/1-3.Elemental8x10.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/1-3.Elemental8x10.oil.png",
+                       "title" : "Elemental",
+                      "medium" : "Oil",
+                        "size" : "8x10",
+                       "index" : "#0:7"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/1-4.Marsh and boathouse8x10.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/1-4.Marsh and boathouse8x10.oil.png",
+                       "title" : "Marsh and Boathouse",
+                      "medium" : "Oil",
+                        "size" : "8x10",
+                       "index" : "#0:8"
+                },
                 {
                      "fullURL" : "imgs/recent/full/3-1.Fog,trees reflection.8x10.oil.png",
                     "smallURL" : "imgs/recent/150_sq/3-1.Fog,trees reflection.8x10.oil.png",
                        "title" : "Fog, Trees Reflection",
                       "medium" : "Oil",
                         "size" : "8x10",
-                       "index" : "#0:1"
+                       "index" : "#0:9"
                 },
                 {
                      "fullURL" : "imgs/recent/full/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
@@ -18,7 +82,7 @@ var allImages = {
                        "title" : "Snow, Fog, Rain",
                       "medium" : "Oil",
                         "size" : "8x10",
-                       "index" : "#0:2"
+                       "index" : "#0:10"
                 },
                 {
                      "fullURL" : "imgs/recent/full/3-3.Winter reflection8x10.oil.png",
@@ -26,7 +90,7 @@ var allImages = {
                        "title" : "Winter Reflections",
                       "medium" : "Oil",
                         "size" : "8x10",
-                       "index" : "#0:3"
+                       "index" : "#0:11"
                 },
                 {
                      "fullURL" : "imgs/recent/full/3-4.Winter light8x10.oil.png",
@@ -34,7 +98,7 @@ var allImages = {
                        "title" : "Winter Light",
                       "medium" : "Oil",
                         "size" : "8x10",
-                       "index" : "#0:4"
+                       "index" : "#0:12"
                 },
                 {
                      "fullURL" : "imgs/recent/full/4-1.Summer morning light.22.5x28.5.png",
@@ -42,7 +106,7 @@ var allImages = {
                        "title" : "Summer Morning Light",
                       "medium" : "Oil",
                         "size" : "22.5x28.5",
-                       "index" : "#0:5"
+                       "index" : "#0:13"
                 },
                 {
                      "fullURL" : "imgs/recent/full/4-2.Cool water .22.5x28.5.oil.png",
@@ -50,13 +114,13 @@ var allImages = {
                        "title" : "Cool Water",
                       "medium" : "Oil",
                         "size" : "22.5x28.5",
-                       "index" : "#0:6"
+                       "index" : "#0:14"
                 }
             ]
         },
         {
              "title" : "Sea and Sky",
-               "url" : "/portfolio#seaandsky",
+               "url" : "portfolio.html#seaandsky",
             "images" : [
                 {
                      "fullURL" : "imgs/seasky/full/1-1.ColdHarbor.png",
@@ -190,7 +254,7 @@ var allImages = {
         },
         {
              "title" : "Land",
-               "url" : "/portfolio#land",
+               "url" : "portfolio.html#land",
             "images" : [
                 {
                      "fullURL" : "imgs/land/full/1-1.Peonies in Full Sun.9x12.oil.png",
@@ -260,14 +324,14 @@ var allImages = {
         },
         {
              "title" : "Maine",
-               "url" : "/portfolio#maine",
+               "url" : "portfolio.html#maine",
             "images" : [
                 {
                      "fullURL" : "imgs/maine/full/1-1.fishing boat.9x12.oil.png",
                     "smallURL" : "imgs/maine/150_sq/1-1.fishing boat.9x12.oil.png",
                        "title" : "Fishing Boat",
                       "medium" : "Oil",
-                        "size" : "9x12",
+                        "size" : "9x18",
                        "index" : "#3:1"
                 },
                 {
@@ -299,7 +363,7 @@ var allImages = {
                     "smallURL" : "imgs/maine/150_sq/2-1.Morning Fog.8x10.oil.png",
                        "title" : "Morning Fog",
                       "medium" : "Oil",
-                        "size" : "8x10",
+                        "size" : "6x18",
                        "index" : "#3:5"
                 },
                 {
@@ -354,7 +418,7 @@ var allImages = {
         },
         {
              "title" : "Voyages",
-               "url" : "/portfolio#voyages",
+               "url" : "portfolio.html#voyages",
             "images" : [
                 {
                      "fullURL" : "imgs/voyages/full/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png",

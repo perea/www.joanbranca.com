@@ -148,3 +148,16 @@ div.sixteen.columns.galleryLink.nomargin {
     margin-right:0px;
     padding-right:0px;
 }
+
+td.prev {
+    width:50px;   
+}
+
+td.next {
+    text-align:right;   
+    width:50px;
+}
+
+div.imageNav table, div.imageNav table tbody, div.imageName table tbody tr{
+    width:15%;   
+}

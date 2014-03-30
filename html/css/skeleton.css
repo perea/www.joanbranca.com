@@ -71,12 +71,6 @@
 
 
 
-/* #Tablet (Portrait)
-================================================== */
-
-
-
-
 /*  #Mobile (Portrait)
 ================================================== */
 
@@ -125,7 +119,7 @@
         .container .offset-by-fifteen { padding-left: 0; }
         
         div#header img {
-            width:100%;  
+            width:290px;  
             height:10px;
         }
         
