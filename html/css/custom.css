@@ -66,8 +66,12 @@ ul.imageInfo li {
     margin-bottom:0px;
 }
 
-div.centerAlign {
+div.centerAlign, div.sixteen.columns.pageContent.centerAlign{
     text-align:center;   
+}
+
+div.sixteen.columns.pageContent.centerAlign{
+    padding-left:10%;  
 }
 
 div.centerAlign div.leftAlign{
@@ -135,5 +139,12 @@ p.newsInfo {
 ul.portfolioList li {
     display:inline-block;
     margin-right:5px;
-    margin-bottom:5px;
+    margin-bottom:0px;
+}
+
+div.sixteen.columns.galleryLink.nomargin {
+    margin-left:0px;
+    padding-left:0px;
+    margin-right:0px;
+    padding-right:0px;
 }
