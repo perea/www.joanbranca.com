@@ -71,7 +71,7 @@ var allImages = {
                 {
                      "fullURL" : "imgs/recent/full/3-1.Fog,trees reflection.8x10.oil.png",
                     "smallURL" : "imgs/recent/150_sq/3-1.Fog,trees reflection.8x10.oil.png",
-                       "title" : "Fog, Trees Reflection",
+                       "title" : "Fog, Trees, Reflection",
                       "medium" : "Oil",
                         "size" : "8x10",
                        "index" : "#0:9"
@@ -307,7 +307,7 @@ var allImages = {
                 {
                      "fullURL" : "imgs/land/full/2-3.Vinyard Number 5.20x16.oil.png",
                     "smallURL" : "imgs/land/150_sq/2-3.Vinyard Number 5.20x16.oil.png",
-                       "title" : "Vinyard Number 5",
+                       "title" : "Vineyard Number 5",
                       "medium" : "Oil",
                         "size" : "20x16",
                        "index" : "#2:7"
