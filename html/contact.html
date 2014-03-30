@@ -1,250 +1,189 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Joan Branca</title>
-<style type="text/css">
-<!--
-body {
-	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background: #FFFFFF;
-	margin: 0;
-	padding: 0;
-	color: #000;
-	background-color: #FFF;
-	font-family: Georgia, "Times New Roman", Times, serif;
-	font-size: 95%;
-}
 
-/* ~~ Element/tag selectors ~~ */
-ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
-	padding: 0;
-	margin: 0;
-}
-h1, h2, h3, h4, h5, h6, p {
-	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
-	padding-right: 15px;
-	padding-left: 15px;
-	font-size: 100%;
-	text-align: left;
-	font-family: Georgia, "Times New Roman", Times, serif;
-}
-a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
-	border: none;
-}
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>Joan Branca</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
 
-/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
-a:link {
-	color: #000000;
-	text-decoration: none; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
-}
-a:visited {
-	color: #000000;
-	text-decoration: none;
-}
-a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
-	text-decoration: none;
-}
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-/* ~~this fixed width container surrounds the other divs~~ */
-.container {
-	width: 960px;
-	background: #FFFFFF;
-	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
-}
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/skeleton.css">
+	<link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/custom.css">
 
-/* ~~ the header is not given a width. It will extend the full width of your layout. It contains an image placeholder that should be replaced with your own linked logo ~~ */
-.header {
-	background: #FFFFFF;
-	background-image: url(../imgs/summer.jpg);
-	background-position-y: -10;
-}
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
 
-/* ~~ These are the columns for the layout. ~~ 
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
-1) Padding is only placed on the top and/or bottom of the divs. The elements within these divs have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
-
-2) No margin has been given to the columns since they are all floated. If you must add margin, avoid placing it on the side you're floating toward (for example: a right margin on a div set to float right). Many times, padding can be used instead. For divs where this rule must be broken, you should add a "display:inline" declaration to the div's rule to tame a bug where some versions of Internet Explorer double the margin.
-
-3) Since classes can be used multiple times in a document (and an element can also have multiple classes applied), the columns have been assigned class names instead of IDs. For example, two sidebar divs could be stacked if necessary. These can very easily be changed to IDs if that's your preference, as long as you'll only be using them once per document.
-
-4) If you prefer your nav on the right instead of the left, simply float these columns the opposite direction (all right instead of all left) and they'll render in reverse order. There's no need to move the divs around in the HTML source.
-
-*/
-.sidebar1 {
-	float: left;
-	width: 180px;
-	background: #FFF;
-	padding-bottom: 10px;
-}
-.content {
-	padding: 10px 0;
-	width: 780px;
-	float: left;
-	font-size: 100%;
-	text-align: center;
-	font-family: Georgia, "Times New Roman", Times, serif;
-}
-
-/* ~~ This grouped selector gives the lists in the .content area space ~~ */
-.content ul, .content ol {
-	padding: 0 15px 15px 40px; /* this padding mirrors the right padding in the headings and paragraph rule above. Padding was placed on the bottom for space between other elements on the lists and on the left to create the indention. These may be adjusted as you wish. */
-	text-align: left;
-}
-
-/* ~~ The navigation list styles (can be removed if you choose to use a premade flyout menu like Spry) ~~ */
-ul.nav {
-	list-style: none; /* this removes the list marker */
-	border-top: 1px solid #000000; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
-	border-top-style:dotted;
-	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
-}
-ul.nav li {
-	border-bottom: 1px solid #00000; /* this creates the button separation */
-}
-ul.nav a, ul.nav a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
-	padding: 5px 5px 5px 15px;
-	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
-	width: 160px;  /*this width makes the entire button clickable for IE6. If you don't need to support IE6, it can be removed. Calculate the proper width by subtracting the padding on this link from the width of your sidebar container. */
-	text-emphasis:dot;
-	text-decoration: none;
-	background: #FFFFFF;
-}
-ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
-	background: #FFFFFF;
-	color: #333;
-}
-
-/* ~~ The navigation list styles (can be removed if you choose to use a premade flyout menu like Spry) ~~ */
-ul.nav2 {
-	list-style: none; /* this removes the list marker */
-	border-top: 1px solid #000000; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
-	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
-}
-ul.nav2 li {
-	border-bottom: 1px solid #00000; /* this creates the button separation */
-}
-ul.nav2 a, ul.nav a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
-	padding: 5px 5px 5px 15px;
-	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
-	width: 160px;  /*this width makes the entire button clickable for IE6. If you don't need to support IE6, it can be removed. Calculate the proper width by subtracting the padding on this link from the width of your sidebar container. */
-	text-decoration: none;
-	background: #FFFFFF;
-}
-ul.nav2 a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
-	background: #FFFFFF;
-	color: #333;
-}
-
-/* ~~ The footer ~~ */
-.footer {
-	padding: 10px 0;
-	background: #FFFFFF;
-	position: relative;/* this gives IE6 hasLayout to properly clear */
-	clear: both; /* this clear property forces the .container to understand where the columns end and contain them */
-	background-color: #FFFFFF;
-}
-
-/* ~~ miscellaneous float/clear classes ~~ */
-.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
-	float: right;
-	margin-left: 8px;
-}
-.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
-	float: left;
-	margin-right: 8px;
-}
-.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
-	clear:both;
-	height:0;
-	font-size: 1px;
-	line-height: 0px;
-}
-.container .header pd {
-}
-.container .header .header {
-	font-size: 300%;
-	text-align: left;
-}
-a:hover {
-	text-decoration: underline;
-	color: #333;
-}
-a:active {
-	text-decoration: none;
-}
-.container .content table {
-	text-align: center;
-}
-.container .content table {
-	text-align: center;
-}
-.container .content table {
-	text-align: center;
-}
-.header1 {
-	background: #FFFFFF;
-	background-image: url(imgs/1MeanderingWay_logo.jpg);
-	background-repeat: no-repeat;
-	font-size: 300%;
-	height: 125px;
-}
-.footer1 {
-	padding: 10px 0;
-	background: #FFFFFF;
-	position: relative;/* this gives IE6 hasLayout to properly clear */
-	clear: both; /* this clear property forces the .container to understand where the columns end and contain them */
-	background-color: #FFFFFF;
-}
-.container .content div p {
-	text-align: center;
-}
--->
-</style></head>
-
+</head>
 <body>
 
-<div class="container">
-<div> <p> </p></div>
-  <div class="header1">
-    <!-- end .header -->
-    <p>Joan Branca</p>
-</div>
-<div><p>&nbsp;</p></div>
-  <div class="sidebar1">
-    <ul class="nav2">
-      <li><a href="about.html">About</a></li>
-      <li><a href="galleries.html">Galleries</a></li>
-      <li><a href="gallery_Recent.html">Recent</a></li>
-      <li><a href="workshops.html">Workshops</a></li>
-      <li><a href="contact.html">Contact</a></li>
-      <li> </li>
-    </ul>
-    <p>&nbsp;</p>
-    <!-- end .sidebar1 --></div>
-  <div class="content">
-    <h1>Contact</h1>
-    <p><strong>Email:</strong> <a href="mailto:info@joanbranca.com">info@JoanBranca.com</a></p>
-    <p><strong>WordPress:</strong> <a href="http://www.joanbranca.wordpress.com/">JoanBranca.wordpress.com</a></p>
-    <p><strong>Galleries:</strong><ul> <li><a href="http://www.gallerynorth.org">GalleryNorth.org</a></li> <li><a href="http://islesfordartists.com/Islesford_Artists/Home.html">Islesford Artists Gallery</a></li>
-      </ul>
-    <p><strong>Workshops: </strong></p>
-    <div></div>
-    <div>
-      <p align="center">TUSCANY:  A JOURNEY FOR THE SENSES,  LLC</p>
-      <p align="center">presents</p>
-      <p align="center">PLEIN AIR/ PLEIN EAU WORKSHOP WITH JOAN BRANCA</p>
-      <p align="center">AUGUST 8 -10, 2012</p>
-      <p align="center">CAPE COD, MA</p>
-      <p>                                                  Enjoy the magic of plein air painting in an informative and fun workshop as we capture the mood and unique light of the Cape Cod landscape. This workshop is designed for all levels of students who want to translate their visual experience into a plein air painting.</p>
-    </div>
-    <p><!-- end .content --></p>
-  </div>
-  <div class="footer1">
-    <p>© Copyright 2012</p>
-    <!-- end .footer -->
-  </div>
-  <div><p></p></div>
-  <!-- end .container --></div>
+
+
+	<!-- Primary Page Layout
+	================================================== -->
+
+	<!-- Delete everything in this .container and get started on your own site! -->
+
+	<div class="container">
+		<div class="sixteen columns" id = "header">
+			<h1 class="remove-bottom" style="margin-top: 40px">Joan Branca</h1>
+			<img src = "imgs/line.png"><br>
+		</div>
+        <div class = "sixteen columns" id = "nav">
+            <ul class = 'navlist'>
+                <li><a href = 'index.html' >PORTFOLIO</a></li>
+                <li><a href = 'bio.html' >BIO</a></li>
+                <li><a href = 'statement.html' >STATEMENT</a></li>
+                <li><a href = 'contact.html' class = "activeLink">CV CONTACT</a></li>
+                <li><a href = 'news.html'>NEWS</a></li>
+            </ul>
+        </div>
+        <div class = "sixteen columns">
+            <div class = "centerAlign">
+            <ul class = "contactInfo">
+                <li><strong>JOAN BRANCA</strong></li>
+                <li><a href = "joanbranca.com">www.joanbranca.com</a></li>
+                <li><a href="mailto:info@joanbranca.com">info (at) joanbranca.com</a></li>
+            </ul>
+            </div>
+        </div>
+		<div class = " thirteen columns leftAlign">
+            <h4>Education</h4>        
+            <table class = "cvTable">
+                <tbody>
+                    <tr>
+                        <td class = "leftCol">MFA</td>
+                        <td>University of Pennsylvania</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">BA</td>
+                        <td>State University of New York at Cortland, cum laude <br>Skowhegan School of Painting and Sculpture</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <br>
+            <h4>Selected Exhibitions</h4>        
+            <table class = "cvTable">
+                <tbody>
+                    <tr>
+                        <td class = "leftCol">2014</td>
+                        <td>Blend Studio Gallery, <em>Solo Exhibition</em>, Nashville, TN<br>Gallery North: <em>Poetry and the Art of Eating</em>, Setauket, NY <br>Gallery North: <em>Local Color</em>, Setauket, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">2006-’14</td>
+                        <td>Islesford Artists Gallery: <em>Gallery Artists</em>, Islesford, ME</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">2012-’13</td>
+                        <td>Gallery North: <em>Local Color, Deck the Halls</em>, Setauket, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">2006-’10</td>
+                        <td>Gallery North: <em>Local Color</em>, Setauket, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">2009</td>
+                        <td>The Long Island Museum: <em>Works on Paper</em>, Stony Brook, NY<br>Gallery North: <em>Holiday Art</em>, Setauket, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">2008</td>
+                        <td>Herbert F. Johnson Museum, Cornell University: <em>Shared Experience:
+                            The Collection of Steven Barbash</em>, Ithaca, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">2007</td>
+                        <td>SUNY College at Cortland: <em>Four Alumni Exhibition</em>, Cortland, NY<br>Kirkland Art Center: <em>Sea and Sky</em>, Invitational curated by Mary Murray, Curator, Munson Williams Proctor Museum, Utica, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">2005</td>
+                        <td>The Union League Art Gallery: <em>Solo Exhibition</em>, NY,NY<br>Gallery North: <em>Landscape at 40</em>, Setauket, NY <br>Gallery North: <em>The Art of Brookhaven</em>, Setauket, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">2004</td>
+                        <td>East End Arts Council: <em>Savor Long Island</em>, Riverhead, NY<br>Munson Williams Proctor Museum, <em>From the Permanent Collection</em>, Utica, NY <br>State of the Art Gallery: <em>Autumn in America</em>, Ithaca, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">2002</td>
+                        <td>Arnot Art Museum: <em>Regional Exhibition</em>, Elmira, NY<br>Heckscher Museum of Art: <em>Long Island Artists</em>, Huntington, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">2001</td>
+                        <td>Smithtown Arts Council, Mills Pond House Gallery: <em>Motherlode</em>, Smithtown, NY<br>Omni Gallery: <em>94 days of summer: A Survey of Long Island Artists</em>, Uniondale, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">1987</td>
+                        <td>East Hampton Center for Contemporary Art: <em>4 Person exhibition</em>, East Hampton, NY<br>Islip Art Museum: <em>Juried Exhibition</em>, Islip, NY <br>Gallery North: <em>3 Person Exhibition</em>, Setauket, NY</td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">1986</td>
+                        <td>Nassau County Museum of Fine Arts: <em>4 Person exhibition</em></td>
+                    </tr>
+                    <tr>
+                        <td class = "leftCol">1985</td>
+                        <td>Smithtown Township Arts Council: <em>Solo exhibition: Charting a Course</em></td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <br><br>
+            
+            <h4>Selected Collections</h4>  
+            <ul class = 'cvList'>
+                <li>Herbert F. Johnson Museum of Art, Cornell University, NY</li>
+                <li>Nassau County Museum of Fine Arts, Roslyn, NY</li>
+                <li>Munson Williams Proctor Museum, Utica, NY</li>
+                <li>SUNY College at Cortland, Cortland, NY</li>
+                <li>The Union League Club, New York, NY</li>
+                <li>Foundation for Latin American Anthropological Research, Guatemala City</li>
+                <li>Euclidean Capital</li>
+                <li>Jim Simons Collection </li>
+                <li>Steven Barbash Collection</li>
+            </ul>
+            
+            <br>
+            
+            <h4>Selected Publications</h4>  
+            <ul class = 'cvList'>
+                <li>Wine Press : 2010, Fall/ Winter Publication, LI, NY, <em>Cover Illustration</em></li>
+                <li>Bone Island: 2007, Poems by Gregg Weatherby, Finishing Line Press, <em>Cover Illustration</em></li>
+                <li>The New York Times: 4/03/05, p.12 illustration. LI <em>“The Art of Brookhaven”</em></li>
+                <li>The New York Times: 9/12/04, LI, “Of Marshes, <em>Coastal Inlets and Zippers”</em></li>
+                <li>The Port Times Record: 3/24/05, p.B7 <em>“Gallery North Celebrates Brookhaven’s 350th Anniversary”</em> review, G. Ruoti</li>
+                <li>Art and Antiques Magazine: 10/87 <em>Exhibition review:</em> East Hampton Center for Contemporary Art</li>
+            </ul>
+            
+            
+            </div>
+        
+        <div class="sixteen columns" id = "footer">
+			<p>All content copyright &copy;joanbranca.com All rights reserved</p>
+		</div>
+        <div class = "three columns"></div>
+	</div><!-- container -->
+
+
+<!-- End Document
+================================================== -->
 </body>
 </html>
