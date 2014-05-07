@@ -115,6 +115,14 @@ var allImages = {
                       "medium" : "Oil",
                         "size" : "22.5x28.5",
                        "index" : "#0:14"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/4-3.Spring Impression22x28_oil.png",
+                    "smallURL" : "imgs/recent/150_sq/4-3.Spring Impression22x28_oil.png",
+                       "title" : "Spring Impression",
+                      "medium" : "Oil",
+                        "size" : "22x28",
+                       "index" : "#0:15"
                 }
             ]
         },
