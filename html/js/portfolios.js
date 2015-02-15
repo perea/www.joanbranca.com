@@ -4,109 +4,21 @@ var allImages = {
              "title" : "Recent",
                "url" : "portfolio.html#recent",
             "images" : [
-                {
-                     "fullURL" : "imgs/recent/full/2-1.Warm October.8x10.5.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/2-1.Warm October.8x10.5.oil.png",
-                       "title" : "Warm October",
+				{
+                     "fullURL" : "imgs/seasky/full/5-1.SecretPlace_36x68_oil.jpg",
+                    "smallURL" : "imgs/seasky/150_sq/5-1.SecretPlace_36x68_oil.jpg",
+                       "title" : "Secret Place",
                       "medium" : "Oil",
-                        "size" : "8x10",
+                        "size" : "36x68",
                        "index" : "#0:1"
                 },
-                {
-                     "fullURL" : "imgs/recent/full/2-2.endOfSeptember.png",
-                    "smallURL" : "imgs/recent/150_sq/2-2.endOfSeptember.png",
-                       "title" : "End of September",
-                      "medium" : "Oil",
-                        "size" : "8x10.5",
-                       "index" : "#0:2"
-                },
-                {
-                     "fullURL" : "imgs/recent/full/2-3.Golden light.8x10.5.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/2-3.Golden light.8x10.5.oil.png",
-                       "title" : "Golden Light",
-                      "medium" : "Oil",
-                        "size" : "8x10.5",
-                       "index" : "#0:3"
-                },
-                {
-                     "fullURL" : "imgs/recent/full/2-4.Marsh light.8x10.5.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/2-4.Marsh light.8x10.5.oil.png",
-                       "title" : "Marsh Light",
-                      "medium" : "Oil",
-                        "size" : "8x10.5",
-                       "index" : "#0:4"
-                },
-                {
-                     "fullURL" : "imgs/recent/full/1-1.Through the Marsh Grass22x28.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/1-1.Through the Marsh Grass22x28.oil.png",
-                       "title" : "Through the Marsh Grass",
-                      "medium" : "Oil",
-                        "size" : "22x28",
-                       "index" : "#0:5"
-                },
-                {
-                     "fullURL" : "imgs/recent/full/1-2.Through the Leaves.21x29.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/1-2.Through the Leaves.21x29.oil.png",
-                       "title" : "Through the Leaves",
-                      "medium" : "Oil",
-                        "size" : "21x29",
-                       "index" : "#0:6"
-                },
-                {
-                     "fullURL" : "imgs/recent/full/1-3.Elemental8x10.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/1-3.Elemental8x10.oil.png",
-                       "title" : "Elemental",
-                      "medium" : "Oil",
-                        "size" : "8x10",
-                       "index" : "#0:7"
-                },
-                {
-                     "fullURL" : "imgs/recent/full/1-4.Marsh and boathouse8x10.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/1-4.Marsh and boathouse8x10.oil.png",
-                       "title" : "Marsh and Boathouse",
-                      "medium" : "Oil",
-                        "size" : "8x10",
-                       "index" : "#0:8"
-                },
-                {
-                     "fullURL" : "imgs/recent/full/3-1.Fog,trees reflection.8x10.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/3-1.Fog,trees reflection.8x10.oil.png",
-                       "title" : "Fog, Trees, Reflection",
-                      "medium" : "Oil",
-                        "size" : "8x10",
-                       "index" : "#0:9"
-                },
-                {
-                     "fullURL" : "imgs/recent/full/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
-                       "title" : "Snow, Fog, Rain",
-                      "medium" : "Oil",
-                        "size" : "8x10",
-                       "index" : "#0:10"
-                },
-                {
-                     "fullURL" : "imgs/recent/full/3-3.Winter reflection8x10.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/3-3.Winter reflection8x10.oil.png",
-                       "title" : "Winter Reflections",
-                      "medium" : "Oil",
-                        "size" : "8x10",
-                       "index" : "#0:11"
-                },
-                {
-                     "fullURL" : "imgs/recent/full/3-4.Winter light8x10.oil.png",
-                    "smallURL" : "imgs/recent/150_sq/3-4.Winter light8x10.oil.png",
-                       "title" : "Winter Light",
-                      "medium" : "Oil",
-                        "size" : "8x10",
-                       "index" : "#0:12"
-                },
-                {
+				{
                      "fullURL" : "imgs/recent/full/4-1.Summer morning light.22.5x28.5.png",
                     "smallURL" : "imgs/recent/150_sq/4-1.Summer morning light.22.5x28.5.png",
                        "title" : "Summer Morning Light",
                       "medium" : "Oil",
                         "size" : "22.5x28.5",
-                       "index" : "#0:13"
+                       "index" : "#0:2"
                 },
                 {
                      "fullURL" : "imgs/recent/full/4-2.Cool water .22.5x28.5.oil.png",
@@ -114,7 +26,7 @@ var allImages = {
                        "title" : "Cool Water",
                       "medium" : "Oil",
                         "size" : "22.5x28.5",
-                       "index" : "#0:14"
+                       "index" : "#0:3"
                 },
                 {
                      "fullURL" : "imgs/recent/full/4-3.Spring Impression22x28_oil.png",
@@ -122,7 +34,135 @@ var allImages = {
                        "title" : "Spring Impression",
                       "medium" : "Oil",
                         "size" : "22x28",
+                       "index" : "#0:4"
+                },
+				{
+                     "fullURL" : "imgs/recent/full/5.1.Harbor  Sunset_22x29_oil.jpg",
+                    "smallURL" : "imgs/recent/150_sq/5.1.Harbor  Sunset_22x29_oil.jpg",
+                       "title" : "Harbor Sunset",
+                      "medium" : "Oil",
+                        "size" : "22x29",
+                       "index" : "#0:5"
+                },
+				{
+                     "fullURL" : "imgs/recent/full/5.2.Morning Light on the Harbor_21x28_oil.jpg",
+                    "smallURL" : "imgs/recent/150_sq/5.2.Morning Light on the Harbor_21x28_oil.jpg",
+                       "title" : "Morning Light on the Harbor",
+                      "medium" : "Oil",
+                        "size" : "21x28",
+                       "index" : "#0:6"
+                },
+				{
+                     "fullURL" : "imgs/seasky/full/2-2.HarborinJuly.png",
+                    "smallURL" : "imgs/seasky/150_sq/2-2.HarborinJuly.png",
+                       "title" : "Harbor in July",
+                      "medium" : "Oil",
+                        "size" : "16x29",
+                       "index" : "#0:7"
+                },
+				{
+                     "fullURL" : "imgs/seasky/full/1-3.Indian Summer.20x46.oil.png",
+                    "smallURL" : "imgs/seasky/150_sq/1-3.Indian Summer.20x46.oil.png",
+                       "title" : "Indian Summer",
+                      "medium" : "Oil",
+                        "size" : "20x46",
+                       "index" : "#0:8"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/2-1.Warm October.8x10.5.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/2-1.Warm October.8x10.5.oil.png",
+                       "title" : "Warm October",
+                      "medium" : "Oil",
+                        "size" : "8x10",
+                       "index" : "#0:9"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/2-2.endOfSeptember.png",
+                    "smallURL" : "imgs/recent/150_sq/2-2.endOfSeptember.png",
+                       "title" : "End of September",
+                      "medium" : "Oil",
+                        "size" : "8x10.5",
+                       "index" : "#0:10"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/2-3.Golden light.8x10.5.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/2-3.Golden light.8x10.5.oil.png",
+                       "title" : "Golden Light",
+                      "medium" : "Oil",
+                        "size" : "8x10.5",
+                       "index" : "#0:11"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/2-4.Marsh light.8x10.5.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/2-4.Marsh light.8x10.5.oil.png",
+                       "title" : "Marsh Light",
+                      "medium" : "Oil",
+                        "size" : "8x10.5",
+                       "index" : "#0:12"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/1-1.Through the Marsh Grass22x28.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/1-1.Through the Marsh Grass22x28.oil.png",
+                       "title" : "Through the Marsh Grass",
+                      "medium" : "Oil",
+                        "size" : "22x28",
+                       "index" : "#0:13"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/1-2.Through the Leaves.21x29.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/1-2.Through the Leaves.21x29.oil.png",
+                       "title" : "Through the Leaves",
+                      "medium" : "Oil",
+                        "size" : "21x29",
+                       "index" : "#0:14"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/1-3.Elemental8x10.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/1-3.Elemental8x10.oil.png",
+                       "title" : "Elemental",
+                      "medium" : "Oil",
+                        "size" : "8x10",
                        "index" : "#0:15"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/5.3.Obscure-Reveal_22x28_oil.jpg",
+                    "smallURL" : "imgs/recent/150_sq/5.3.Obscure-Reveal_22x28_oil.jpg",
+                       "title" : "Obscure: Reveal",
+                      "medium" : "Oil",
+                        "size" : "22x28",
+                       "index" : "#0:16"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/3-1.Fog,trees reflection.8x10.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/3-1.Fog,trees reflection.8x10.oil.png",
+                       "title" : "Fog, Trees, Reflection",
+                      "medium" : "Oil",
+                        "size" : "8x10",
+                       "index" : "#0:17"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
+                       "title" : "Snow, Fog, Rain",
+                      "medium" : "Oil",
+                        "size" : "8x10",
+                       "index" : "#0:18"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/3-3.Winter reflection8x10.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/3-3.Winter reflection8x10.oil.png",
+                       "title" : "Winter Reflections",
+                      "medium" : "Oil",
+                        "size" : "8x10",
+                       "index" : "#0:19"
+                },
+                {
+                     "fullURL" : "imgs/recent/full/3-4.Winter light8x10.oil.png",
+                    "smallURL" : "imgs/recent/150_sq/3-4.Winter light8x10.oil.png",
+                       "title" : "Winter Light",
+                      "medium" : "Oil",
+                        "size" : "8x10",
+                       "index" : "#0:20"
                 }
             ]
         },
