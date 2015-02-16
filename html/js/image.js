@@ -570,7 +570,6 @@ var allImages = {
     
 };
 
-
 var url = document.URL;
 var currentGallery = allImages["galleries"][0];
 var currentImage = currentGallery["images"][0]; 
@@ -640,13 +639,13 @@ $('div#imageTarget').html(html);
 
 $('td.prev a').click(function() {
     prevIndex++;
-    window.location.href = "image.html#" + galleryIndex + ":" + prevIndex;
-    window.location.reload(true);
+    window.location = "image.html#" + galleryIndex + ":" + prevIndex;
+   // window.location.reload(true);
 });
 
 $('td.next a').click(function() {
     nextIndex++;
-    window.location.href = "image.html#" + galleryIndex + ":" + nextIndex;
-    window.location.reload(true);
+    window.location = "image.html#" + galleryIndex + ":" + nextIndex;
+    //window.location.reload(true);
 });
 
