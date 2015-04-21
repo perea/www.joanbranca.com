@@ -312,20 +312,20 @@ var allImages = {
                         "size" : "9x12",
                        "index" : "#2:1"
                 },
-                {
-                     "fullURL" : "imgs/land/full/1-2.In the Garden.28x22.oil.png",
-                    "smallURL" : "imgs/land/150_sq/1-2.In the Garden.28x22.oil.png",
-                       "title" : "In the Garden",
+				{
+                     "fullURL" : "imgs/land/full/wild_rose_8x10.jpg",
+                    "smallURL" : "imgs/land/150_sq/wild_rose_8x10.jpg",
+                       "title" : "Wild Roses",
                       "medium" : "Oil",
-                        "size" : "28x22",
+                        "size" : "8x10",
                        "index" : "#2:2"
                 },
-                {
-                     "fullURL" : "imgs/land/full/1-3.Rose of Sharon.9x12.oil.png",
-                    "smallURL" : "imgs/land/150_sq/1-3.Rose of Sharon.9x12.oil.png",
-                       "title" : "Rose of Sharon",
+				{
+                     "fullURL" : "imgs/land/full/Light_in_the_Garden.28 x22.oil.jpg",
+                    "smallURL" : "imgs/land/150_sq/Light_in_the_Garden.28 x22.oil.jpg",
+                       "title" : "Light in the Garden",
                       "medium" : "Oil",
-                        "size" : "9x12",
+                        "size" : "28x22",
                        "index" : "#2:3"
                 },
                 {
@@ -336,34 +336,35 @@ var allImages = {
                         "size" : "28x22",
                        "index" : "#2:4"
                 },
-                {
-                     "fullURL" : "imgs/land/full/2-1.Shirt on the line.9x12.oil.png",
-                    "smallURL" : "imgs/land/150_sq/2-1.Shirt on the line.9x12.oil.png",
-                       "title" : "Shirt on the Line",
+				{
+                     "fullURL" : "imgs/land/full/morning_stroll_8x10.jpg",
+                    "smallURL" : "imgs/land/150_sq/morning_stroll_8x10.jpg",
+                       "title" : "Morning Stroll",
                       "medium" : "Oil",
-                        "size" : "9x12",
+                        "size" : "8x10",
                        "index" : "#2:5"
                 },
+				{
+                     "fullURL" : "imgs/land/full/walk_in_the_fog_8x10.jpg",
+                    "smallURL" : "imgs/land/150_sq/walk_in_the_fog_8x10.jpg",
+                       "title" : "Walk in the Fog",
+                      "medium" : "Oil",
+                        "size" : "8x10",
+                       "index" : "#2:6"
+                },
+				
                 {
                      "fullURL" : "imgs/land/full/2-2.Farm_in_July.28x22.oil.png",
                     "smallURL" : "imgs/land/150_sq/2-2.Farm_in_July.28x22.oil.png",
                        "title" : "Farm in July",
                       "medium" : "Oil",
                         "size" : "28x22",
-                       "index" : "#2:6"
+                       "index" : "#2:7"
                 },
                 {
                      "fullURL" : "imgs/land/full/2-3.Vinyard Number 5.20x16.oil.png",
                     "smallURL" : "imgs/land/150_sq/2-3.Vinyard Number 5.20x16.oil.png",
                        "title" : "Vineyard Number 5",
-                      "medium" : "Oil",
-                        "size" : "20x16",
-                       "index" : "#2:7"
-                },
-                {
-                     "fullURL" : "imgs/land/full/2-4.Early_Winter_Light.20x16.oil.png",
-                    "smallURL" : "imgs/land/150_sq/2-4.Early_Winter_Light.20x16.oil.png",
-                       "title" : "Early Winter Light",
                       "medium" : "Oil",
                         "size" : "20x16",
                        "index" : "#2:8"
