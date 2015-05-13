@@ -579,7 +579,7 @@ var html = "";
 var pIndex = url.lastIndexOf("#");
 var cIndex = url.lastIndexOf(":");
 var galleryIndex = url.slice(pIndex+1,cIndex);
-var imageIndex = parseInt(url.slice(cIndex+1)) -1;
+var imageIndex = parseInt(url.slice(cIndex+1));
 var prevIndex = imageIndex-1;
 var nextIndex = imageIndex+1;
 
@@ -639,14 +639,13 @@ html = Mustache.to_html(bodyTemplate, currentImage);
 $('div#imageTarget').html(html);
 
 $('td.prev a').click(function() {
-    prevIndex++;
-    window.location = "image.html#" + galleryIndex + ":" + prevIndex;
-   // window.location.reload(true);
+    window.location.assign("image.html#" + galleryIndex + ":" + prevIndex);
+	window.location.reload(true);
 });
 
 $('td.next a').click(function() {
-    nextIndex++;
-    window.location = "image.html#" + galleryIndex + ":" + nextIndex;
-    //window.location.reload(true);
+
+    window.location.assign("image.html#" + galleryIndex + ":" + nextIndex);
+	window.location.reload(true);
 });
 
