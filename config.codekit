@@ -1,0 +1,3385 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "19102",
+"files": {
+	"\/html\/bio.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/bio.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/contact.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/contact.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/css\/base.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/css\/base.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/css\/custom.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/css\/custom.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/css\/layout.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/css\/layout.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/css\/skeleton.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/css\/skeleton.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/image.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/image.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/imgs\/blendstudio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10997,
+		"inputAbbreviatedPath": "\/html\/imgs\/blendstudio.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/blendstudio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3187,
+		"inputAbbreviatedPath": "\/html\/imgs\/facebook.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/joanbranca.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23500,
+		"inputAbbreviatedPath": "\/html\/imgs\/joanbranca.jpeg",
+		"outputAbbreviatedPath": "\/html\/imgs\/joanbranca.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/1-1.Peonies in Full Sun.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59185,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/1-1.Peonies in Full Sun.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/1-1.Peonies in Full Sun.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/1-2.In the Garden.28x22.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53135,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/1-2.In the Garden.28x22.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/1-2.In the Garden.28x22.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/1-3.Rose of Sharon.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57142,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/1-3.Rose of Sharon.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/1-3.Rose of Sharon.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/1-4.Reaching_for_the_Sun.28x22.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53542,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/1-4.Reaching_for_the_Sun.28x22.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/1-4.Reaching_for_the_Sun.28x22.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/2-1.Shirt on the line.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57125,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/2-1.Shirt on the line.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/2-1.Shirt on the line.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/2-2.Farm_in_July.28x22.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54375,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/2-2.Farm_in_July.28x22.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/2-2.Farm_in_July.28x22.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/2-3.Vinyard Number 5.20x16.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53872,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/2-3.Vinyard Number 5.20x16.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/2-3.Vinyard Number 5.20x16.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/2-4.Early_Winter_Light.20x16.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57549,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/2-4.Early_Winter_Light.20x16.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/2-4.Early_Winter_Light.20x16.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/Light_in_the_Garden.28 x22.oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68903,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/Light_in_the_Garden.28 x22.oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/Light_in_the_Garden.28 x22.oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/morning_stroll_8x10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55477,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/morning_stroll_8x10.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/morning_stroll_8x10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/walk_in_the_fog_8x10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46114,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/walk_in_the_fog_8x10.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/walk_in_the_fog_8x10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/150_sq\/wild_rose_8x10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54146,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/wild_rose_8x10.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/150_sq\/wild_rose_8x10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/1-1.Peonies in Full Sun.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109195,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/1-1.Peonies in Full Sun.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/1-1.Peonies in Full Sun.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/1-2.In the Garden.28x22.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97925,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/1-2.In the Garden.28x22.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/1-2.In the Garden.28x22.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/1-3.Rose of Sharon.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103433,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/1-3.Rose of Sharon.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/1-3.Rose of Sharon.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/1-4.Reaching_for_the_Sun.28x22.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97896,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/1-4.Reaching_for_the_Sun.28x22.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/1-4.Reaching_for_the_Sun.28x22.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/2-1.Shirt on the line.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104393,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/2-1.Shirt on the line.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/2-1.Shirt on the line.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/2-2.Farm_in_July.28x22.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100011,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/2-2.Farm_in_July.28x22.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/2-2.Farm_in_July.28x22.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/2-3.Vinyard Number 5.20x16.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96115,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/2-3.Vinyard Number 5.20x16.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/2-3.Vinyard Number 5.20x16.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/2-4.Early_Winter_Light.20x16.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105402,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/2-4.Early_Winter_Light.20x16.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/2-4.Early_Winter_Light.20x16.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/Light_in_the_Garden.28 x22.oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108579,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/Light_in_the_Garden.28 x22.oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/Light_in_the_Garden.28 x22.oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/morning_stroll_8x10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87391,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/morning_stroll_8x10.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/morning_stroll_8x10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/walk_in_the_fog_8x10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73116,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/walk_in_the_fog_8x10.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/walk_in_the_fog_8x10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/210_sq\/wild_rose_8x10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84599,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/wild_rose_8x10.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/210_sq\/wild_rose_8x10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/1-1.Peonies in Full Sun.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 853907,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/1-1.Peonies in Full Sun.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/1-1.Peonies in Full Sun.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/1-2.In the Garden.28x22.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.21498e+06,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/1-2.In the Garden.28x22.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/1-2.In the Garden.28x22.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/1-3.Rose of Sharon.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 576959,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/1-3.Rose of Sharon.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/1-3.Rose of Sharon.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/1-4.Reaching_for_the_Sun.28x22.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.34941e+06,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/1-4.Reaching_for_the_Sun.28x22.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/1-4.Reaching_for_the_Sun.28x22.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/2-1.Shirt on the line.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 621298,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/2-1.Shirt on the line.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/2-1.Shirt on the line.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/2-2.Farm_in_July.28x22.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 552274,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/2-2.Farm_in_July.28x22.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/2-2.Farm_in_July.28x22.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/2-3.Vinyard Number 5.20x16.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 475177,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/2-3.Vinyard Number 5.20x16.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/2-3.Vinyard Number 5.20x16.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/2-4.Early_Winter_Light.20x16.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.49673e+06,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/2-4.Early_Winter_Light.20x16.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/2-4.Early_Winter_Light.20x16.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/Light_in_the_Garden.28 x22.oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 376240,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/Light_in_the_Garden.28 x22.oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/Light_in_the_Garden.28 x22.oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/morning_stroll_8x10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 442628,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/morning_stroll_8x10.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/morning_stroll_8x10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/walk_in_the_fog_8x10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 407027,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/walk_in_the_fog_8x10.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/walk_in_the_fog_8x10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/land\/full\/wild_rose_8x10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431913,
+		"inputAbbreviatedPath": "\/html\/imgs\/land\/full\/wild_rose_8x10.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/land\/full\/wild_rose_8x10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/line.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1052,
+		"inputAbbreviatedPath": "\/html\/imgs\/line.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/line.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/linkedin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3287,
+		"inputAbbreviatedPath": "\/html\/imgs\/linkedin.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/linkedin.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/localcolor.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68354,
+		"inputAbbreviatedPath": "\/html\/imgs\/localcolor.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/localcolor.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/1-1.fishing boat.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39803,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/1-1.fishing boat.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/1-1.fishing boat.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/1-2.maine fishing.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40032,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/1-2.maine fishing.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/1-2.maine fishing.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/1-3.Path to Bunkers Cove.mixed media.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51107,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/1-3.Path to Bunkers Cove.mixed media.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/1-3.Path to Bunkers Cove.mixed media.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/1-4.Island_Fog.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37264,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/1-4.Island_Fog.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/1-4.Island_Fog.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/2-1.Morning Fog.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37358,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/2-1.Morning Fog.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/2-1.Morning Fog.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/2-2.Hadlock Point.mixed media.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54993,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/2-2.Hadlock Point.mixed media.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/2-2.Hadlock Point.mixed media.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/2-3.Towards  Gilley Beach.8x12.mixedmedia.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52770,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/2-3.Towards  Gilley Beach.8x12.mixedmedia.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/2-3.Towards  Gilley Beach.8x12.mixedmedia.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/2-4.Marsh Trees.mixed media.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55692,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/2-4.Marsh Trees.mixed media.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/2-4.Marsh Trees.mixed media.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/3-1.Marsh Pool.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48062,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/3-1.Marsh Pool.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/3-1.Marsh Pool.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/3-2.Lupine.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56165,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/3-2.Lupine.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/3-2.Lupine.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/150_sq\/3-3.FromEvelynshouse.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55614,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/3-3.FromEvelynshouse.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/150_sq\/3-3.FromEvelynshouse.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/1-1.fishing boat.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76590,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/1-1.fishing boat.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/1-1.fishing boat.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/1-2.maine fishing.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76802,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/1-2.maine fishing.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/1-2.maine fishing.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/1-3.Path to Bunkers Cove.mixed media.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90513,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/1-3.Path to Bunkers Cove.mixed media.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/1-3.Path to Bunkers Cove.mixed media.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/1-4.Island_Fog.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67545,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/1-4.Island_Fog.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/1-4.Island_Fog.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/2-1.Morning Fog.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64523,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/2-1.Morning Fog.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/2-1.Morning Fog.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/2-2.Hadlock Point.mixed media.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100297,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/2-2.Hadlock Point.mixed media.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/2-2.Hadlock Point.mixed media.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/2-3.Towards  Gilley Beach.8x12.mixedmedia.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95774,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/2-3.Towards  Gilley Beach.8x12.mixedmedia.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/2-3.Towards  Gilley Beach.8x12.mixedmedia.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/2-4.Marsh Trees.mixed media.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100938,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/2-4.Marsh Trees.mixed media.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/2-4.Marsh Trees.mixed media.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/3-1.Marsh Pool.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84973,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/3-1.Marsh Pool.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/3-1.Marsh Pool.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/3-2.Lupine.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100527,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/3-2.Lupine.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/3-2.Lupine.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/210_sq\/3-3.FromEvelynshouse.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99906,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/3-3.FromEvelynshouse.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/210_sq\/3-3.FromEvelynshouse.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/1-1.fishing boat.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 405862,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/1-1.fishing boat.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/1-1.fishing boat.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/1-2.maine fishing.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 758748,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/1-2.maine fishing.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/1-2.maine fishing.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/1-3.Path to Bunkers Cove.mixed media.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 257125,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/1-3.Path to Bunkers Cove.mixed media.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/1-3.Path to Bunkers Cove.mixed media.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/1-4.Island_Fog.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353291,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/1-4.Island_Fog.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/1-4.Island_Fog.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/2-1.Morning Fog.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169038,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/2-1.Morning Fog.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/2-1.Morning Fog.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/2-2.Hadlock Point.mixed media.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 797616,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/2-2.Hadlock Point.mixed media.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/2-2.Hadlock Point.mixed media.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/2-3.Towards  Gilley Beach.8x12.mixedmedia.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 677226,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/2-3.Towards  Gilley Beach.8x12.mixedmedia.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/2-3.Towards  Gilley Beach.8x12.mixedmedia.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/2-4.Marsh Trees.mixed media.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 850225,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/2-4.Marsh Trees.mixed media.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/2-4.Marsh Trees.mixed media.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/3-1.Marsh Pool.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168561,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/3-1.Marsh Pool.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/3-1.Marsh Pool.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/3-2.Lupine.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261775,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/3-2.Lupine.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/3-2.Lupine.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/maine\/full\/3-3.FromEvelynshouse.9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 596494,
+		"inputAbbreviatedPath": "\/html\/imgs\/maine\/full\/3-3.FromEvelynshouse.9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/maine\/full\/3-3.FromEvelynshouse.9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/placeholder.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1526,
+		"inputAbbreviatedPath": "\/html\/imgs\/placeholder.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/placeholder.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/placeholder_large.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3374,
+		"inputAbbreviatedPath": "\/html\/imgs\/placeholder_large.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/placeholder_large.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/placeholder_small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 996,
+		"inputAbbreviatedPath": "\/html\/imgs\/placeholder_small.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/placeholder_small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/1-1.Through the Marsh Grass22x28.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55703,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/1-1.Through the Marsh Grass22x28.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/1-1.Through the Marsh Grass22x28.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/1-2.Through the Leaves.21x29.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52363,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/1-2.Through the Leaves.21x29.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/1-2.Through the Leaves.21x29.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/1-3.Elemental8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47296,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/1-3.Elemental8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/1-3.Elemental8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/1-4.Marsh and boathouse8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48686,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/1-4.Marsh and boathouse8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/1-4.Marsh and boathouse8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/2-1.Warm October.8x10.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50782,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/2-1.Warm October.8x10.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/2-1.Warm October.8x10.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/2-2.endOfSeptember.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54808,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/2-2.endOfSeptember.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/2-2.endOfSeptember.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/2-3.Golden light.8x10.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48050,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/2-3.Golden light.8x10.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/2-3.Golden light.8x10.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/2-4.Marsh light.8x10.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50060,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/2-4.Marsh light.8x10.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/2-4.Marsh light.8x10.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/3-1.Fog,trees reflection.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47523,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/3-1.Fog,trees reflection.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/3-1.Fog,trees reflection.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/3-2.Snow,Fog ,Rain 1_8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49197,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/3-3.Winter reflection8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51496,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/3-3.Winter reflection8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/3-3.Winter reflection8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/3-4.Winter light8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43473,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/3-4.Winter light8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/3-4.Winter light8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/4-1.Summer morning light.22.5x28.5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46612,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/4-1.Summer morning light.22.5x28.5.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/4-1.Summer morning light.22.5x28.5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/4-2.Cool water .22.5x28.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46546,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/4-2.Cool water .22.5x28.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/4-2.Cool water .22.5x28.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/4-3.Spring Impression22x28_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46060,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/4-3.Spring Impression22x28_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/4-3.Spring Impression22x28_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/5.1.Harbor  Sunset_22x29_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56421,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/5.1.Harbor  Sunset_22x29_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/5.1.Harbor  Sunset_22x29_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/5.2.Morning Light on the Harbor_21x28_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52805,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/5.2.Morning Light on the Harbor_21x28_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/5.2.Morning Light on the Harbor_21x28_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/150_sq\/5.3.Obscure-Reveal_22x28_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66784,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/5.3.Obscure-Reveal_22x28_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/150_sq\/5.3.Obscure-Reveal_22x28_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/1-1.Through the Marsh Grass22x28.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99375,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/1-1.Through the Marsh Grass22x28.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/1-1.Through the Marsh Grass22x28.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/1-2.Through the Leaves.21x29.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92129,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/1-2.Through the Leaves.21x29.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/1-2.Through the Leaves.21x29.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/1-3.Elemental8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83179,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/1-3.Elemental8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/1-3.Elemental8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/1-4.Marsh and boathouse8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85614,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/1-4.Marsh and boathouse8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/1-4.Marsh and boathouse8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/2-1.Warm October.8x10.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88323,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/2-1.Warm October.8x10.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/2-1.Warm October.8x10.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/2-2.endOfSeptember.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98875,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/2-2.endOfSeptember.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/2-2.endOfSeptember.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/2-3.Golden light.8x10.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84055,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/2-3.Golden light.8x10.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/2-3.Golden light.8x10.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/2-4.Marsh light.8x10.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88099,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/2-4.Marsh light.8x10.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/2-4.Marsh light.8x10.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/3-1.Fog,trees reflection.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84749,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/3-1.Fog,trees reflection.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/3-1.Fog,trees reflection.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/3-2.Snow,Fog ,Rain 1_8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88699,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/3-3.Winter reflection8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91813,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/3-3.Winter reflection8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/3-3.Winter reflection8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/3-4.Winter light8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75822,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/3-4.Winter light8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/3-4.Winter light8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/4-1.Summer morning light.22.5x28.5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82100,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/4-1.Summer morning light.22.5x28.5.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/4-1.Summer morning light.22.5x28.5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/4-2.Cool water .22.5x28.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80404,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/4-2.Cool water .22.5x28.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/4-2.Cool water .22.5x28.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/4-3.Spring Impression22x28_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83963,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/4-3.Spring Impression22x28_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/4-3.Spring Impression22x28_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/5.1.Harbor  Sunset_22x29_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90123,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/5.1.Harbor  Sunset_22x29_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/5.1.Harbor  Sunset_22x29_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/5.2.Morning Light on the Harbor_21x28_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151214,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/5.2.Morning Light on the Harbor_21x28_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/5.2.Morning Light on the Harbor_21x28_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/210_sq\/5.3.Obscure-Reveal_22x28_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106064,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/5.3.Obscure-Reveal_22x28_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/210_sq\/5.3.Obscure-Reveal_22x28_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/1-1.Through the Marsh Grass22x28.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159347,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/1-1.Through the Marsh Grass22x28.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/1-1.Through the Marsh Grass22x28.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/1-2.Through the Leaves.21x29.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149136,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/1-2.Through the Leaves.21x29.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/1-2.Through the Leaves.21x29.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/1-3.Elemental8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124706,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/1-3.Elemental8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/1-3.Elemental8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/1-4.Marsh and boathouse8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128193,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/1-4.Marsh and boathouse8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/1-4.Marsh and boathouse8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/2-1.Warm October.8x10.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135106,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/2-1.Warm October.8x10.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/2-1.Warm October.8x10.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/2-2.endOfSeptember.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 269391,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/2-2.endOfSeptember.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/2-2.endOfSeptember.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/2-3.Golden light.8x10.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129521,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/2-3.Golden light.8x10.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/2-3.Golden light.8x10.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/2-4.Marsh light.8x10.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139008,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/2-4.Marsh light.8x10.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/2-4.Marsh light.8x10.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/3-1.Fog,trees reflection.8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 399130,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/3-1.Fog,trees reflection.8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/3-1.Fog,trees reflection.8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/3-2.Snow,Fog ,Rain 1_8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 444419,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/3-3.Winter reflection8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440710,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/3-3.Winter reflection8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/3-3.Winter reflection8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/3-4.Winter light8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 339391,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/3-4.Winter light8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/3-4.Winter light8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/4-1.Summer morning light.22.5x28.5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 443764,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/4-1.Summer morning light.22.5x28.5.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/4-1.Summer morning light.22.5x28.5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/4-2.Cool water .22.5x28.5.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 481650,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/4-2.Cool water .22.5x28.5.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/4-2.Cool water .22.5x28.5.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/4-3.Spring Impression22x28_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 435388,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/4-3.Spring Impression22x28_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/4-3.Spring Impression22x28_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/5.1.Harbor  Sunset_22x29_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 197138,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/5.1.Harbor  Sunset_22x29_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/5.1.Harbor  Sunset_22x29_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/5.2.Morning Light on the Harbor_21x28_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 192305,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/5.2.Morning Light on the Harbor_21x28_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/5.2.Morning Light on the Harbor_21x28_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/recent\/full\/5.3.Obscure-Reveal_22x28_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 238471,
+		"inputAbbreviatedPath": "\/html\/imgs\/recent\/full\/5.3.Obscure-Reveal_22x28_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/recent\/full\/5.3.Obscure-Reveal_22x28_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/1-1.ColdHarbor.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48989,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/1-1.ColdHarbor.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/1-1.ColdHarbor.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/1-2.Harbor in the Morning.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52309,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/1-2.Harbor in the Morning.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/1-2.Harbor in the Morning.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/1-3.Indian Summer.20x46.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49822,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/1-3.Indian Summer.20x46.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/1-3.Indian Summer.20x46.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/1-4. Summer Backwater.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51300,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/1-4. Summer Backwater.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/1-4. Summer Backwater.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/2-1.View_from_the_porch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44769,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/2-1.View_from_the_porch.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/2-1.View_from_the_porch.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/2-2.HarborinJuly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41144,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/2-2.HarborinJuly.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/2-2.HarborinJuly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/2-3.MeanderingWay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42095,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/2-3.MeanderingWay.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/2-3.MeanderingWay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/2-4.AfternoonLight.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44088,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/2-4.AfternoonLight.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/2-4.AfternoonLight.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/3-1.Ready to Go_12x16_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44483,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/3-1.Ready to Go_12x16_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/3-1.Ready to Go_12x16_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/3-2.heron watch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45014,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/3-2.heron watch.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/3-2.heron watch.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/3-3.Orange Sail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47591,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/3-3.Orange Sail.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/3-3.Orange Sail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/3-4.Narrow River .12x16.oiljpg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44801,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/3-4.Narrow River .12x16.oiljpg.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/3-4.Narrow River .12x16.oiljpg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/4-1.Winter Sky22x28oilarches copy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46576,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/4-1.Winter Sky22x28oilarches copy.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/4-1.Winter Sky22x28oilarches copy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/4-2.Storm.16x18.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44052,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/4-2.Storm.16x18.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/4-2.Storm.16x18.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/4-3.Twilight .o.18x26.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39202,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/4-3.Twilight .o.18x26.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/4-3.Twilight .o.18x26.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/4-4.Approaching Dusk 8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44831,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/4-4.Approaching Dusk 8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/4-4.Approaching Dusk 8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/150_sq\/5-1.SecretPlace_36x68_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65084,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/5-1.SecretPlace_36x68_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/150_sq\/5-1.SecretPlace_36x68_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/1-1.ColdHarbor.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90964,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/1-1.ColdHarbor.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/1-1.ColdHarbor.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/1-2.Harbor in the Morning.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95606,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/1-2.Harbor in the Morning.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/1-2.Harbor in the Morning.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/1-3.Indian Summer.20x46.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87455,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/1-3.Indian Summer.20x46.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/1-3.Indian Summer.20x46.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/1-4. Summer Backwater.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92801,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/1-4. Summer Backwater.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/1-4. Summer Backwater.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/2-1.View_from_the_porch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82416,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/2-1.View_from_the_porch.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/2-1.View_from_the_porch.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/2-2.HarborinJuly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75577,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/2-2.HarborinJuly.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/2-2.HarborinJuly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/2-3.MeanderingWay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78036,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/2-3.MeanderingWay.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/2-3.MeanderingWay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/2-4.AfternoonLight.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80999,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/2-4.AfternoonLight.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/2-4.AfternoonLight.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/3-1.Ready to Go_12x16_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78948,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/3-1.Ready to Go_12x16_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/3-1.Ready to Go_12x16_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/3-2.heron watch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81320,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/3-2.heron watch.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/3-2.heron watch.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/3-3.Orange Sail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88109,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/3-3.Orange Sail.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/3-3.Orange Sail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/3-4.Narrow River .12x16.oiljpg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79393,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/3-4.Narrow River .12x16.oiljpg.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/3-4.Narrow River .12x16.oiljpg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/4-1.Winter Sky22x28oilarches copy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83033,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/4-1.Winter Sky22x28oilarches copy.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/4-1.Winter Sky22x28oilarches copy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/4-2.Storm.16x18.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76956,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/4-2.Storm.16x18.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/4-2.Storm.16x18.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/4-3.Twilight .o.18x26.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69496,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/4-3.Twilight .o.18x26.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/4-3.Twilight .o.18x26.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/4-4.Approaching Dusk 8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81147,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/4-4.Approaching Dusk 8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/4-4.Approaching Dusk 8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/210_sq\/5-1.SecretPlace_36x68_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102253,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/5-1.SecretPlace_36x68_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/210_sq\/5-1.SecretPlace_36x68_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/1-1.ColdHarbor.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 734710,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/1-1.ColdHarbor.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/1-1.ColdHarbor.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/1-2.Harbor in the Morning.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 875552,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/1-2.Harbor in the Morning.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/1-2.Harbor in the Morning.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/1-3.Indian Summer.20x46.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 308428,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/1-3.Indian Summer.20x46.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/1-3.Indian Summer.20x46.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/1-4. Summer Backwater.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.19847e+06,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/1-4. Summer Backwater.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/1-4. Summer Backwater.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/2-1.View_from_the_porch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 372380,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/2-1.View_from_the_porch.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/2-1.View_from_the_porch.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/2-2.HarborinJuly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 495759,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/2-2.HarborinJuly.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/2-2.HarborinJuly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/2-3.MeanderingWay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 762513,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/2-3.MeanderingWay.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/2-3.MeanderingWay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/2-4.AfternoonLight.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.03988e+06,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/2-4.AfternoonLight.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/2-4.AfternoonLight.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/3-1.Ready to Go_12x16_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 198722,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/3-1.Ready to Go_12x16_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/3-1.Ready to Go_12x16_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/3-2.heron watch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 392419,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/3-2.heron watch.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/3-2.heron watch.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/3-3.Orange Sail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.39469e+06,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/3-3.Orange Sail.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/3-3.Orange Sail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/3-4.Narrow River .12x16.oiljpg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261941,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/3-4.Narrow River .12x16.oiljpg.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/3-4.Narrow River .12x16.oiljpg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/4-1.Winter Sky22x28oilarches copy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 334371,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/4-1.Winter Sky22x28oilarches copy.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/4-1.Winter Sky22x28oilarches copy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/4-2.Storm.16x18.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138973,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/4-2.Storm.16x18.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/4-2.Storm.16x18.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/4-3.Twilight .o.18x26.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223920,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/4-3.Twilight .o.18x26.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/4-3.Twilight .o.18x26.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/4-4.Approaching Dusk 8x10.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 363695,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/4-4.Approaching Dusk 8x10.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/4-4.Approaching Dusk 8x10.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/seasky\/full\/5-1.SecretPlace_36x68_oil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 417479,
+		"inputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/5-1.SecretPlace_36x68_oil.jpg",
+		"outputAbbreviatedPath": "\/html\/imgs\/seasky\/full\/5-1.SecretPlace_36x68_oil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/steve2.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 250613,
+		"inputAbbreviatedPath": "\/html\/imgs\/steve2.jpeg",
+		"outputAbbreviatedPath": "\/html\/imgs\/steve2.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47473,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/1-2.May I cook this for you_.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51946,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/1-2.May I cook this for you_.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/1-2.May I cook this for you_.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/1-3.Fish Dream 16x20.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41542,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/1-3.Fish Dream 16x20.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/1-3.Fish Dream 16x20.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/1-4.If she dreams of fish_18x22_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44962,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/1-4.If she dreams of fish_18x22_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/1-4.If she dreams of fish_18x22_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/2-1.Moonlit Conversation_18x22_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49546,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/2-1.Moonlit Conversation_18x22_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/2-1.Moonlit Conversation_18x22_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/2-2.Towards Eden_18x22_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38032,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/2-2.Towards Eden_18x22_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/2-2.Towards Eden_18x22_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/2-3.Wetlands and Apple 16x20.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43060,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/2-3.Wetlands and Apple 16x20.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/2-3.Wetlands and Apple 16x20.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/2-4.animal head with figures.30x42.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55313,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/2-4.animal head with figures.30x42.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/2-4.animal head with figures.30x42.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/3-1.Jump.16x42.mixed media collage.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39985,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/3-1.Jump.16x42.mixed media collage.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/3-1.Jump.16x42.mixed media collage.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/3-2.Save.10x10.mixed media.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55579,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/3-2.Save.10x10.mixed media.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/3-2.Save.10x10.mixed media.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/3-3.Dolphin Dream.12x11.5 mixed media collage.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51686,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/3-3.Dolphin Dream.12x11.5 mixed media collage.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/3-3.Dolphin Dream.12x11.5 mixed media collage.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/150_sq\/3-4.The Memory Palace .40x42.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59384,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/3-4.The Memory Palace .40x42.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/150_sq\/3-4.The Memory Palace .40x42.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83814,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/1-2.May I cook this for you_.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92851,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/1-2.May I cook this for you_.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/1-2.May I cook this for you_.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/1-3.Fish Dream 16x20.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72504,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/1-3.Fish Dream 16x20.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/1-3.Fish Dream 16x20.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/1-4.If she dreams of fish_18x22_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73679,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/1-4.If she dreams of fish_18x22_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/1-4.If she dreams of fish_18x22_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/2-1.Moonlit Conversation_18x22_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85790,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/2-1.Moonlit Conversation_18x22_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/2-1.Moonlit Conversation_18x22_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/2-2.Towards Eden_18x22_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62166,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/2-2.Towards Eden_18x22_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/2-2.Towards Eden_18x22_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/2-3.Wetlands and Apple 16x20.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75050,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/2-3.Wetlands and Apple 16x20.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/2-3.Wetlands and Apple 16x20.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/2-4.animal head with figures.30x42.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98734,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/2-4.animal head with figures.30x42.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/2-4.animal head with figures.30x42.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/3-1.Jump.16x42.mixed media collage.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69065,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/3-1.Jump.16x42.mixed media collage.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/3-1.Jump.16x42.mixed media collage.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/3-2.Save.10x10.mixed media.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100126,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/3-2.Save.10x10.mixed media.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/3-2.Save.10x10.mixed media.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/3-3.Dolphin Dream.12x11.5 mixed media collage.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85760,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/3-3.Dolphin Dream.12x11.5 mixed media collage.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/3-3.Dolphin Dream.12x11.5 mixed media collage.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/210_sq\/3-4.The Memory Palace .40x42.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107575,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/3-4.The Memory Palace .40x42.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/210_sq\/3-4.The Memory Palace .40x42.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 427595,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/1-2.May I cook this for you_.9x12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 506746,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/1-2.May I cook this for you_.9x12.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/1-2.May I cook this for you_.9x12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/1-3.Fish Dream 16x20.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317043,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/1-3.Fish Dream 16x20.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/1-3.Fish Dream 16x20.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/1-4.If she dreams of fish_18x22_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67688,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/1-4.If she dreams of fish_18x22_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/1-4.If she dreams of fish_18x22_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/2-1.Moonlit Conversation_18x22_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141012,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/2-1.Moonlit Conversation_18x22_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/2-1.Moonlit Conversation_18x22_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/2-2.Towards Eden_18x22_oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93285,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/2-2.Towards Eden_18x22_oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/2-2.Towards Eden_18x22_oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/2-3.Wetlands and Apple 16x20.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 331158,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/2-3.Wetlands and Apple 16x20.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/2-3.Wetlands and Apple 16x20.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/2-4.animal head with figures.30x42.oil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 515843,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/2-4.animal head with figures.30x42.oil.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/2-4.animal head with figures.30x42.oil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/3-1.Jump.16x42.mixed media collage.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280030,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/3-1.Jump.16x42.mixed media collage.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/3-1.Jump.16x42.mixed media collage.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/3-2.Save.10x10.mixed media.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 419290,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/3-2.Save.10x10.mixed media.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/3-2.Save.10x10.mixed media.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/3-3.Dolphin Dream.12x11.5 mixed media collage.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 386101,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/3-3.Dolphin Dream.12x11.5 mixed media collage.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/3-3.Dolphin Dream.12x11.5 mixed media collage.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/imgs\/voyages\/full\/3-4.The Memory Palace .40x42.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 437117,
+		"inputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/3-4.The Memory Palace .40x42.png",
+		"outputAbbreviatedPath": "\/html\/imgs\/voyages\/full\/3-4.The Memory Palace .40x42.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/html\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/js\/image.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/js\/image.js",
+		"outputAbbreviatedPath": "\/html\/js\/min\/image-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/html\/js\/portfolios.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/js\/portfolios.js",
+		"outputAbbreviatedPath": "\/html\/js\/min\/portfolios-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/html\/libraries\/jquery-2.0.3.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/libraries\/jquery-2.0.3.min.js",
+		"outputAbbreviatedPath": "\/html\/libraries\/min\/jquery-2.0.3.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/html\/libraries\/mustache.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/libraries\/mustache.js",
+		"outputAbbreviatedPath": "\/html\/libraries\/min\/mustache-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/html\/news.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/news.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/portfolio.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/portfolio.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/html\/statement.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html\/statement.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "adam m pere",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "www.joanbranca.com",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "pencil_blue"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
+	"markdownEnableFootnotes": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputFormat": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptPreserveConstEnums": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

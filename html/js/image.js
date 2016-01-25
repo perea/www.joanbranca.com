@@ -580,11 +580,11 @@ var pIndex = url.lastIndexOf("#");
 var cIndex = url.lastIndexOf(":");
 var galleryIndex = url.slice(pIndex+1,cIndex);
 var imageIndex = parseInt(url.slice(cIndex+1));
-var prevIndex = imageIndex-1;
-var nextIndex = imageIndex+1;
+var prevIndex = imageIndex-2;
+var nextIndex = imageIndex;
 
 currentGallery = allImages["galleries"][galleryIndex];
-currentImage = currentGallery["images"][imageIndex]; 
+currentImage = currentGallery["images"][imageIndex-1]; 
 
 
 
