@@ -94,7 +94,8 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { color: #333; text-decoration: underline; outline: 0; }
+	a, a:visited { color: #333333; text-decoration: underline; outline: 0; }
+a.social-media, a.social-media:visited{color:#7cb3c4}
 	a:hover, a:focus { color: #000; }
 	p a, p a:visited { line-height: inherit; }
 
