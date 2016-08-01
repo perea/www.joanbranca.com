@@ -653,7 +653,6 @@ function reload() {
 
 	html = Mustache.to_html(bodyTemplate, currentImage);
 	$('div#imageTarget').html(html);
-	console.log(html);
 
 	$('td.prev a').click(function () {
 		nextIndex--;
