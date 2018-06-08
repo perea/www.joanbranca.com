@@ -5,52 +5,130 @@ var allImages = {
 			"url": "portfolio.html#recent",
 			"images": [
 				{
-					"fullURL": "imgs/seasky/full/5-1.SecretPlace_36x68_oil.jpg",
-					"smallURL": "imgs/seasky/150_sq/5-1.SecretPlace_36x68_oil.jpg",
-					"title": "Secret Place",
+					"fullURL": "imgs/recent/full/RECENT1_Yellow Barn38x48oil.png",
+					"smallURL": "imgs/recent/150_sq/RECENT1_Yellow Barn38x48oil.png",
+					"title": "Yellow Barn",
 					"medium": "Oil",
-					"size": "36x68",
+					"size": "38x48",
 					"index": "#0:1"
                 },
 				{
-					"fullURL": "imgs/recent/full/4-1.Summer morning light.22.5x28.5.png",
-					"smallURL": "imgs/recent/150_sq/4-1.Summer morning light.22.5x28.5.png",
-					"title": "Summer Morning Light",
+					"fullURL": "imgs/recent/full/RECENT2_Waiting_24.5x32oil.png",
+					"smallURL": "imgs/recent/150_sq/RECENT2_Waiting_24.5x32oil.png",
+					"title": "Waiting",
 					"medium": "Oil",
-					"size": "22.5x28.5",
+					"size": "24.5x32",
 					"index": "#0:2"
                 },
 				{
-					"fullURL": "imgs/recent/full/4-2.Cool water .22.5x28.5.oil.png",
-					"smallURL": "imgs/recent/150_sq/4-2.Cool water .22.5x28.5.oil.png",
-					"title": "Cool Water",
+					"fullURL": "imgs/recent/full/Recent3_Study11x14oil.png",
+					"smallURL": "imgs/recent/150_sq/Recent3_Study11x14oil.png",
+					"title": "Study",
 					"medium": "Oil",
-					"size": "22.5x28.5",
+					"size": "11x14",
 					"index": "#0:3"
                 },
 				{
-					"fullURL": "imgs/recent/full/4-3.Spring Impression22x28_oil.png",
-					"smallURL": "imgs/recent/150_sq/4-3.Spring Impression22x28_oil.png",
-					"title": "Spring Impression",
+					"fullURL": "imgs/recent/full/Recent4_Moment11x14oil.png",
+					"smallURL": "imgs/recent/150_sq/Recent4_Moment11x14oil.png",
+					"title": "Moment",
 					"medium": "Oil",
-					"size": "22x28",
+					"size": "11x14",
 					"index": "#0:4"
                 },
 				{
-					"fullURL": "imgs/recent/full/5.1.Harbor  Sunset_22x29_oil.jpg",
-					"smallURL": "imgs/recent/150_sq/5.1.Harbor  Sunset_22x29_oil.jpg",
-					"title": "Harbor Sunset",
+					"fullURL": "imgs/recent/full/Recent5_Regal_29x27oil.png",
+					"smallURL": "imgs/recent/150_sq/Recent5_Regal_29x27oil.png",
+					"title": "Regal",
 					"medium": "Oil",
-					"size": "22x29",
+					"size": "29x27",
 					"index": "#0:5"
                 },
 				{
-					"fullURL": "imgs/recent/full/5.2.Morning Light on the Harbor_21x28_oil.jpg",
-					"smallURL": "imgs/recent/150_sq/5.2.Morning Light on the Harbor_21x28_oil.jpg",
+					"fullURL": "imgs/recent/full/Recent6_SecretPlace36x69oil.png",
+					"smallURL": "imgs/recent/150_sq/Recent6_SecretPlace36x69oil.png",
+					"title": "Secret Place",
+					"medium": "Oil",
+					"size": "36x69",
+					"index": "#0:6"
+                },
+				{
+					"fullURL": "imgs/recent/full/Recent7_Allegory.22x28oiljpg.png",
+					"smallURL": "imgs/recent/150_sq/Recent7_Allegory.22x28oiljpg.png",
+					"title": "Allegory",
+					"medium": "Oil",
+					"size": "22x28",
+					"index": "#0:7"
+                },
+				{
+					"fullURL": "imgs/recent/full/Recent8_Cataplana de Marisco16x20_oil.png",
+					"smallURL": "imgs/recent/150_sq/Recent8_Cataplana de Marisco16x20_oil.png",
+					"title": "Cataplana de Marisco",
+					"medium": "Oil",
+					"size": "16x20",
+					"index": "#0:8"
+                },
+				{
+					"fullURL": "imgs/recent/full/Recent9_Spanish Gambas_9x12_oil.png",
+					"smallURL": "imgs/recent/150_sq/Recent9_Spanish Gambas_9x12_oil.png",
+					"title": "Spanish Gambas",
+					"medium": "Oil",
+					"size": "9x12",
+					"index": "#0:9"
+                }
+            ]
+        },
+		{
+			"title": "Seasons",
+			"url" : "portfolio.html#seasons",
+			"images": [
+				{
+					"fullURL": "imgs/seasons/full/4-1.Summer morning light.22.5x28.5.png",
+					"smallURL": "imgs/seasons/150_sq/4-1.Summer morning light.22.5x28.5.png",
+					"title": "Summer Morning Light",
+					"medium": "Oil",
+					"size": "22.5x28.5",
+					"index": "#1:1"
+                },
+				{
+					"fullURL": "imgs/seasons/full/4-2.Cool water .22.5x28.5.oil.png",
+					"smallURL": "imgs/seasons/150_sq/4-2.Cool water .22.5x28.5.oil.png",
+					"title": "Cool Water",
+					"medium": "Oil",
+					"size": "22.5x28.5",
+					"index": "#1:2"
+                },
+				{
+					"fullURL": "imgs/seasons/full/4-3.Spring Impression22x28_oil.png",
+					"smallURL": "imgs/seasons/150_sq/4-3.Spring Impression22x28_oil.png",
+					"title": "Spring Impression",
+					"medium": "Oil",
+					"size": "22x28",
+					"index": "#1:3"
+                },
+				{
+					"fullURL": "imgs/seasons/full/1-4.Orient_Point_Afternoon.29x22_oil.png",
+					"smallURL": "imgs/seasons/150_sq/1-4.Orient_Point_Afternoon.29x22_oil.png",
+					"title": "Orient Point Afternoon",
+					"medium": "Oil",
+					"size": "29x22",
+					"index": "#1:4"
+                },
+				{
+					"fullURL": "imgs/seasons/full/5.1.Harbor  Sunset_22x29_oil.jpg",
+					"smallURL": "imgs/seasons/150_sq/5.1.Harbor  Sunset_22x29_oil.jpg",
+					"title": "Harbor Sunset",
+					"medium": "Oil",
+					"size": "22x29",
+					"index": "#1:5"
+                },
+				{
+					"fullURL": "imgs/seasons/full/5.2.Morning Light on the Harbor_21x28_oil.jpg",
+					"smallURL": "imgs/seasons/150_sq/5.2.Morning Light on the Harbor_21x28_oil.jpg",
 					"title": "Morning Light on the Harbor",
 					"medium": "Oil",
 					"size": "21x28",
-					"index": "#0:6"
+					"index": "#1:6"
                 },
 				{
 					"fullURL": "imgs/seasky/full/2-2.HarborinJuly.png",
@@ -58,7 +136,7 @@ var allImages = {
 					"title": "Harbor in July",
 					"medium": "Oil",
 					"size": "16x29",
-					"index": "#0:7"
+					"index": "#1:7"
                 },
 				{
 					"fullURL": "imgs/seasky/full/1-3.Indian Summer.20x46.oil.png",
@@ -66,103 +144,103 @@ var allImages = {
 					"title": "Indian Summer",
 					"medium": "Oil",
 					"size": "20x46",
-					"index": "#0:8"
+					"index": "#1:8"
                 },
 				{
-					"fullURL": "imgs/recent/full/2-1.Warm October.8x10.5.oil.png",
-					"smallURL": "imgs/recent/150_sq/2-1.Warm October.8x10.5.oil.png",
+					"fullURL": "imgs/seasons/full/2-1.Warm October.8x10.5.oil.png",
+					"smallURL": "imgs/seasons/150_sq/2-1.Warm October.8x10.5.oil.png",
 					"title": "Warm October",
 					"medium": "Oil",
 					"size": "8x10",
-					"index": "#0:9"
+					"index": "#1:9"
                 },
 				{
-					"fullURL": "imgs/recent/full/2-2.endOfSeptember.png",
-					"smallURL": "imgs/recent/150_sq/2-2.endOfSeptember.png",
+					"fullURL": "imgs/seasons/full/2-2.endOfSeptember.png",
+					"smallURL": "imgs/seasons/150_sq/2-2.endOfSeptember.png",
 					"title": "End of September",
 					"medium": "Oil",
 					"size": "8x10.5",
-					"index": "#0:10"
+					"index": "#1:10"
                 },
 				{
-					"fullURL": "imgs/recent/full/2-3.Golden light.8x10.5.oil.png",
-					"smallURL": "imgs/recent/150_sq/2-3.Golden light.8x10.5.oil.png",
+					"fullURL": "imgs/seasons/full/2-3.Golden light.8x10.5.oil.png",
+					"smallURL": "imgs/seasons/150_sq/2-3.Golden light.8x10.5.oil.png",
 					"title": "Golden Light",
 					"medium": "Oil",
 					"size": "8x10.5",
-					"index": "#0:11"
+					"index": "#1:11"
                 },
 				{
-					"fullURL": "imgs/recent/full/2-4.Marsh light.8x10.5.oil.png",
-					"smallURL": "imgs/recent/150_sq/2-4.Marsh light.8x10.5.oil.png",
+					"fullURL": "imgs/seasons/full/2-4.Marsh light.8x10.5.oil.png",
+					"smallURL": "imgs/seasons/150_sq/2-4.Marsh light.8x10.5.oil.png",
 					"title": "Marsh Light",
 					"medium": "Oil",
 					"size": "8x10.5",
-					"index": "#0:12"
+					"index": "#1:12"
                 },
 				{
-					"fullURL": "imgs/recent/full/1-1.Through the Marsh Grass22x28.oil.png",
-					"smallURL": "imgs/recent/150_sq/1-1.Through the Marsh Grass22x28.oil.png",
+					"fullURL": "imgs/seasons/full/1-1.Through the Marsh Grass22x28.oil.png",
+					"smallURL": "imgs/seasons/150_sq/1-1.Through the Marsh Grass22x28.oil.png",
 					"title": "Through the Marsh Grass",
 					"medium": "Oil",
 					"size": "22x28",
-					"index": "#0:13"
+					"index": "#1:13"
                 },
 				{
-					"fullURL": "imgs/recent/full/1-2.Through the Leaves.21x29.oil.png",
-					"smallURL": "imgs/recent/150_sq/1-2.Through the Leaves.21x29.oil.png",
+					"fullURL": "imgs/seasons/full/1-2.Through the Leaves.21x29.oil.png",
+					"smallURL": "imgs/seasons/150_sq/1-2.Through the Leaves.21x29.oil.png",
 					"title": "Through the Leaves",
 					"medium": "Oil",
 					"size": "21x29",
-					"index": "#0:14"
+					"index": "#1:14"
                 },
 				{
-					"fullURL": "imgs/recent/full/1-3.Elemental8x10.oil.png",
-					"smallURL": "imgs/recent/150_sq/1-3.Elemental8x10.oil.png",
+					"fullURL": "imgs/seasons/full/1-3.Elemental8x10.oil.png",
+					"smallURL": "imgs/seasons/150_sq/1-3.Elemental8x10.oil.png",
 					"title": "Elemental",
 					"medium": "Oil",
 					"size": "8x10",
-					"index": "#0:15"
+					"index": "#1:15"
                 },
 				{
-					"fullURL": "imgs/recent/full/5.3.Obscure-Reveal_22x28_oil.jpg",
-					"smallURL": "imgs/recent/150_sq/5.3.Obscure-Reveal_22x28_oil.jpg",
+					"fullURL": "imgs/seasons/full/5.3.Obscure-Reveal_22x28_oil.jpg",
+					"smallURL": "imgs/seasons/150_sq/5.3.Obscure-Reveal_22x28_oil.jpg",
 					"title": "Obscure: Reveal",
 					"medium": "Oil",
 					"size": "22x28",
-					"index": "#0:16"
+					"index": "#1:16"
                 },
 				{
-					"fullURL": "imgs/recent/full/3-1.Fog,trees reflection.8x10.oil.png",
-					"smallURL": "imgs/recent/150_sq/3-1.Fog,trees reflection.8x10.oil.png",
+					"fullURL": "imgs/seasons/full/3-1.Fog,trees reflection.8x10.oil.png",
+					"smallURL": "imgs/seasons/150_sq/3-1.Fog,trees reflection.8x10.oil.png",
 					"title": "Fog, Trees, Reflection",
 					"medium": "Oil",
 					"size": "8x10",
-					"index": "#0:17"
+					"index": "#1:17"
                 },
 				{
-					"fullURL": "imgs/recent/full/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
-					"smallURL": "imgs/recent/150_sq/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
+					"fullURL": "imgs/seasons/full/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
+					"smallURL": "imgs/seasons/150_sq/3-2.Snow,Fog ,Rain 1_8x10.oil.png",
 					"title": "Snow, Fog, Rain",
 					"medium": "Oil",
 					"size": "8x10",
-					"index": "#0:18"
+					"index": "#1:18"
                 },
 				{
-					"fullURL": "imgs/recent/full/3-3.Winter reflection8x10.oil.png",
-					"smallURL": "imgs/recent/150_sq/3-3.Winter reflection8x10.oil.png",
+					"fullURL": "imgs/seasons/full/3-3.Winter reflection8x10.oil.png",
+					"smallURL": "imgs/seasons/150_sq/3-3.Winter reflection8x10.oil.png",
 					"title": "Winter Reflections",
 					"medium": "Oil",
 					"size": "8x10",
-					"index": "#0:19"
+					"index": "#1:19"
                 },
 				{
-					"fullURL": "imgs/recent/full/3-4.Winter light8x10.oil.png",
-					"smallURL": "imgs/recent/150_sq/3-4.Winter light8x10.oil.png",
+					"fullURL": "imgs/seasons/full/3-4.Winter light8x10.oil.png",
+					"smallURL": "imgs/seasons/150_sq/3-4.Winter light8x10.oil.png",
 					"title": "Winter Light",
 					"medium": "Oil",
 					"size": "8x10",
-					"index": "#0:20"
+					"index": "#1:20"
                 }
             ]
         },
@@ -171,12 +249,60 @@ var allImages = {
 			"url": "portfolio.html#seaandsky",
 			"images": [
 				{
-					"fullURL": "imgs/seasky/full/1-1.ColdHarbor.png",
-					"smallURL": "imgs/seasky/150_sq/1-1.ColdHarbor.png",
+					"fullURL": "imgs/seasky/full/seasky1_Orient Point afternoon29x22oil.png",
+					"smallURL": "imgs/seasky/150_sq/seasky1_Orient Point afternoon29x22oil.png",
+					"title": "Orient Point Afternoon",
+					"medium": "Oil",
+					"size": "29x22",
+					"index": "#2:1"
+                },
+				{
+					"fullURL": "imgs/seasky/full/Seasky2_Cold Harbor21x29.oil.png",
+					"smallURL": "imgs/seasky/150_sq/Seasky2_Cold Harbor21x29.oil.png",
 					"title": "Cold Harbor",
 					"medium": "Oil",
-					"size": "22x28",
-					"index": "#1:1"
+					"size": "21x29",
+					"index": "#2:2"
+                },
+				{
+					"fullURL": "imgs/seasky/full/seasky3_Passage_24x30oil.png",
+					"smallURL": "imgs/seasky/150_sq/seasky3_Passage_24x30oil.png",
+					"title": "Passage",
+					"medium": "Oil",
+					"size": "24x30",
+					"index": "#2:3"
+                },
+				{
+					"fullURL": "imgs/seasky/full/seasky4_Dawn on the Harbor 8x10.png",
+					"smallURL": "imgs/seasky/150_sq/seasky4_Dawn on the Harbor 8x10.png",
+					"title": "Dawn on the Harbor",
+					"medium": "Oil",
+					"size": "8x10",
+					"index": "#2:4"
+                },
+				{
+					"fullURL": "imgs/seasky/full/Seasky5.Orange Sky8x10oil.png",
+					"smallURL": "imgs/seasky/150_sq/Seasky5.Orange Sky8x10oil.png",
+					"title": "Orange Sky",
+					"medium": "Oil",
+					"size": "8x10",
+					"index": "#2:5"
+                },
+				{
+					"fullURL": "imgs/seasky/full/seasky6_Beach_8x10oil.png",
+					"smallURL": "imgs/seasky/150_sq/seasky6_Beach_8x10oil.png",
+					"title": "Beach",
+					"medium": "Oil",
+					"size": "8x10",
+					"index": "#2:6"
+                },
+				{
+					"fullURL": "imgs/seasky/full/seasky7_Boathouse in November_8x10.oil.png",
+					"smallURL": "imgs/seasky/150_sq/seasky7_Boathouse in November_8x10.oil.png",
+					"title": "Boathouse in November",
+					"medium": "Oil",
+					"size": "8x10",
+					"index": "#2:7"
                 },
 				{
 					"fullURL": "imgs/seasky/full/1-2.Harbor in the Morning.png",
@@ -184,7 +310,7 @@ var allImages = {
 					"title": "Harbor in the Morning",
 					"medium": "Oil",
 					"size": "12x16",
-					"index": "#1:2"
+					"index": "#2:8"
                 },
 				{
 					"fullURL": "imgs/seasky/full/1-3.Indian Summer.20x46.oil.png",
@@ -192,7 +318,7 @@ var allImages = {
 					"title": "Indian Summer",
 					"medium": "Oil",
 					"size": "20x46",
-					"index": "#1:3"
+					"index": "#2:9"
                 },
 				{
 					"fullURL": "imgs/seasky/full/1-4. Summer Backwater.png",
@@ -200,7 +326,7 @@ var allImages = {
 					"title": "Summer Backwater",
 					"medium": "Oil",
 					"size": "24x16",
-					"index": "#1:4"
+					"index": "#2:10"
                 },
 				{
 					"fullURL": "imgs/seasky/full/2-1.View_from_the_porch.png",
@@ -208,7 +334,7 @@ var allImages = {
 					"title": "View From the Porch",
 					"medium": "Oil",
 					"size": "16x20",
-					"index": "#1:5"
+					"index": "#2:11"
                 },
 				{
 					"fullURL": "imgs/seasky/full/2-2.HarborinJuly.png",
@@ -216,7 +342,7 @@ var allImages = {
 					"title": "Harbor in July",
 					"medium": "Oil",
 					"size": "16x29",
-					"index": "#1:6"
+					"index": "#2:12"
                 },
 				{
 					"fullURL": "imgs/seasky/full/2-3.MeanderingWay.png",
@@ -224,47 +350,7 @@ var allImages = {
 					"title": "Meandering Way",
 					"medium": "Oil",
 					"size": "22x28",
-					"index": "#1:7"
-                },
-				{
-					"fullURL": "imgs/seasky/full/2-4.AfternoonLight.png",
-					"smallURL": "imgs/seasky/150_sq/2-4.AfternoonLight.png",
-					"title": "Afternoon Light",
-					"medium": "Oil",
-					"size": "28x22",
-					"index": "#1:8"
-                },
-				{
-					"fullURL": "imgs/seasky/full/3-1.Ready to Go_12x16_oil.png",
-					"smallURL": "imgs/seasky/150_sq/3-1.Ready to Go_12x16_oil.png",
-					"title": "Ready to Go",
-					"medium": "Oil",
-					"size": "12x16",
-					"index": "#1:9"
-                },
-				{
-					"fullURL": "imgs/seasky/full/3-2.heron watch.png",
-					"smallURL": "imgs/seasky/150_sq/3-2.heron watch.png",
-					"title": "Heron Watch",
-					"medium": "Oil",
-					"size": "12x28",
-					"index": "#1:10"
-                },
-				{
-					"fullURL": "imgs/seasky/full/3-3.Orange Sail.png",
-					"smallURL": "imgs/seasky/150_sq/3-3.Orange Sail.png",
-					"title": "Orange Sail",
-					"medium": "Oil",
-					"size": "16x12",
-					"index": "#1:11"
-                },
-				{
-					"fullURL": "imgs/seasky/full/3-4.Narrow River .12x16.oiljpg.png",
-					"smallURL": "imgs/seasky/150_sq/3-4.Narrow River .12x16.oiljpg.png",
-					"title": "Narrow River",
-					"medium": "Oil",
-					"size": "12x16",
-					"index": "#1:12"
+					"index": "#2:13"
                 },
 				{
 					"fullURL": "imgs/seasky/full/4-1.Winter Sky22x28oilarches copy.png",
@@ -272,15 +358,7 @@ var allImages = {
 					"title": "Winter Sky",
 					"medium": "Oil",
 					"size": "22x28",
-					"index": "#1:13"
-                },
-				{
-					"fullURL": "imgs/seasky/full/4-2.Storm.16x18.oil.png",
-					"smallURL": "imgs/seasky/150_sq/4-2.Storm.16x18.oil.png",
-					"title": "Storm",
-					"medium": "Oil",
-					"size": "16x18",
-					"index": "#1:14"
+					"index": "#2:14"
                 },
 				{
 					"fullURL": "imgs/seasky/full/4-3.Twilight .o.18x26.png",
@@ -288,7 +366,7 @@ var allImages = {
 					"title": "Twilight",
 					"medium": "Oil",
 					"size": "18x26",
-					"index": "#1:15"
+					"index": "#2:15"
                 },
 				{
 					"fullURL": "imgs/seasky/full/4-4.Approaching Dusk 8x10.oil.png",
@@ -296,78 +374,7 @@ var allImages = {
 					"title": "Approaching Dusk",
 					"medium": "Oil",
 					"size": "8x10",
-					"index": "#1:16"
-                }
-            ]
-        },
-		{
-			"title": "Land",
-			"url": "portfolio.html#land",
-			"images": [
-				{
-					"fullURL": "imgs/land/full/1-1.Peonies in Full Sun.9x12.oil.png",
-					"smallURL": "imgs/land/150_sq/1-1.Peonies in Full Sun.9x12.oil.png",
-					"title": "Peonies in Full Sun",
-					"medium": "Oil",
-					"size": "9x12",
-					"index": "#2:1"
-                },
-				{
-					"fullURL": "imgs/land/full/wild_rose_8x10.jpg",
-					"smallURL": "imgs/land/150_sq/wild_rose_8x10.jpg",
-					"title": "Wild Roses",
-					"medium": "Oil",
-					"size": "8x10",
-					"index": "#2:2"
-                },
-				{
-					"fullURL": "imgs/land/full/Light_in_the_Garden.28 x22.oil.jpg",
-					"smallURL": "imgs/land/150_sq/Light_in_the_Garden.28 x22.oil.jpg",
-					"title": "Light in the Garden",
-					"medium": "Oil",
-					"size": "28x22",
-					"index": "#2:3"
-                },
-				{
-					"fullURL": "imgs/land/full/1-4.Reaching_for_the_Sun.28x22.oil.png",
-					"smallURL": "imgs/land/150_sq/1-4.Reaching_for_the_Sun.28x22.oil.png",
-					"title": "Reaching for the Sun",
-					"medium": "Oil",
-					"size": "28x22",
-					"index": "#2:4"
-                },
-				{
-					"fullURL": "imgs/land/full/morning_stroll_8x10.jpg",
-					"smallURL": "imgs/land/150_sq/morning_stroll_8x10.jpg",
-					"title": "Morning Stroll",
-					"medium": "Oil",
-					"size": "8x10",
-					"index": "#2:5"
-                },
-				{
-					"fullURL": "imgs/land/full/walk_in_the_fog_8x10.jpg",
-					"smallURL": "imgs/land/150_sq/walk_in_the_fog_8x10.jpg",
-					"title": "Walk in the Fog",
-					"medium": "Oil",
-					"size": "8x10",
-					"index": "#2:6"
-                },
-
-				{
-					"fullURL": "imgs/land/full/2-2.Farm_in_July.28x22.oil.png",
-					"smallURL": "imgs/land/150_sq/2-2.Farm_in_July.28x22.oil.png",
-					"title": "Farm in July",
-					"medium": "Oil",
-					"size": "28x22",
-					"index": "#2:7"
-                },
-				{
-					"fullURL": "imgs/land/full/2-3.Vinyard Number 5.20x16.oil.png",
-					"smallURL": "imgs/land/150_sq/2-3.Vinyard Number 5.20x16.oil.png",
-					"title": "Vineyard Number 5",
-					"medium": "Oil",
-					"size": "20x16",
-					"index": "#2:8"
+					"index": "#2:16"
                 }
             ]
         },
@@ -470,20 +477,12 @@ var allImages = {
 			"url": "portfolio.html#voyages",
 			"images": [
 				{
-					"fullURL": "imgs/voyages/full/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png",
-					"smallURL": "imgs/voyages/150_sq/1-1.Spanish Gambas Rojas on Ice .9x12.oil.png",
-					"title": "Spanish Gambas Rojas on Ice",
-					"medium": "Oil",
-					"size": "9x12",
-					"index": "#4:1"
-                },
-				{
 					"fullURL": "imgs/voyages/full/1-2.May I cook this for you_.9x12.png",
 					"smallURL": "imgs/voyages/150_sq/1-2.May I cook this for you_.9x12.png",
 					"title": "May I Cook This For You?",
 					"medium": "Oil",
 					"size": "9x12",
-					"index": "#4:2"
+					"index": "#4:1"
                 },
 				{
 					"fullURL": "imgs/voyages/full/1-3.Fish Dream 16x20.oil.png",
@@ -491,7 +490,7 @@ var allImages = {
 					"title": "Fish Dream",
 					"medium": "Oil",
 					"size": "16x20",
-					"index": "#4:3"
+					"index": "#4:2"
                 },
 				{
 					"fullURL": "imgs/voyages/full/1-4.If she dreams of fish_18x22_oil.png",
@@ -499,7 +498,7 @@ var allImages = {
 					"title": "If She Dreams of Fish",
 					"medium": "Oil",
 					"size": "18x22",
-					"index": "#4:4"
+					"index": "#4:3"
                 },
 				{
 					"fullURL": "imgs/voyages/full/2-1.Moonlit Conversation_18x22_oil.png",
@@ -507,7 +506,7 @@ var allImages = {
 					"title": "Moonlit Conversation",
 					"medium": "Oil",
 					"size": "18x22",
-					"index": "#4:5"
+					"index": "#4:4"
                 },
 				{
 					"fullURL": "imgs/voyages/full/2-2.Towards Eden_18x22_oil.png",
@@ -515,7 +514,7 @@ var allImages = {
 					"title": "Towards Eden",
 					"medium": "Oil",
 					"size": "18x22",
-					"index": "#4:6"
+					"index": "#4:5"
                 },
 				{
 					"fullURL": "imgs/voyages/full/2-3.Wetlands and Apple 16x20.oil.png",
@@ -523,7 +522,7 @@ var allImages = {
 					"title": "Wetlands and Apple",
 					"medium": "Oil",
 					"size": "16x20",
-					"index": "#4:7"
+					"index": "#4:6"
                 },
 				{
 					"fullURL": "imgs/voyages/full/2-4.animal head with figures.30x42.oil.png",
@@ -531,7 +530,7 @@ var allImages = {
 					"title": "Animal Head with Figures",
 					"medium": "Oil",
 					"size": "30x42",
-					"index": "#4:8"
+					"index": "#4:7"
                 },
 				{
 					"fullURL": "imgs/voyages/full/3-1.Jump.16x42.mixed media collage.png",
@@ -539,7 +538,7 @@ var allImages = {
 					"title": "Jump",
 					"medium": "Mixed Media",
 					"size": "16x42",
-					"index": "#4:9"
+					"index": "#4:8"
                 },
 				{
 					"fullURL": "imgs/voyages/full/3-2.Save.10x10.mixed media.png",
@@ -547,7 +546,7 @@ var allImages = {
 					"title": "Save",
 					"medium": "Mixed Media",
 					"size": "10x10",
-					"index": "#4:10"
+					"index": "#4:9"
                 },
 				{
 					"fullURL": "imgs/voyages/full/3-3.Dolphin Dream.12x11.5 mixed media collage.png",
@@ -555,7 +554,7 @@ var allImages = {
 					"title": "Dolphin Dream",
 					"medium": "Mixed Media Collage",
 					"size": "12x11.5",
-					"index": "#4:11"
+					"index": "#4:10"
                 },
 				{
 					"fullURL": "imgs/voyages/full/3-4.The Memory Palace .40x42.png",
@@ -563,12 +562,82 @@ var allImages = {
 					"title": "The Memory Palace",
 					"medium": "Mixed Media",
 					"size": "40x42",
-					"index": "#4:12"
+					"index": "#4:11"
+                }
+            ]
+        },
+		{
+			"title": "Land",
+			"url": "portfolio.html#land",
+			"images": [
+				{
+					"fullURL": "imgs/land/full/1-1.Peonies in Full Sun.9x12.oil.png",
+					"smallURL": "imgs/land/150_sq/1-1.Peonies in Full Sun.9x12.oil.png",
+					"title": "Peonies in Full Sun",
+					"medium": "Oil",
+					"size": "9x12",
+					"index": "#5:1"
+                },
+				{
+					"fullURL": "imgs/land/full/wild_rose_8x10.jpg",
+					"smallURL": "imgs/land/150_sq/wild_rose_8x10.jpg",
+					"title": "Wild Roses",
+					"medium": "Oil",
+					"size": "8x10",
+					"index": "#5:2"
+                },
+				{
+					"fullURL": "imgs/land/full/Light_in_the_Garden.28 x22.oil.jpg",
+					"smallURL": "imgs/land/150_sq/Light_in_the_Garden.28 x22.oil.jpg",
+					"title": "Light in the Garden",
+					"medium": "Oil",
+					"size": "28x22",
+					"index": "#5:3"
+                },
+				{
+					"fullURL": "imgs/land/full/1-4.Reaching_for_the_Sun.28x22.oil.png",
+					"smallURL": "imgs/land/150_sq/1-4.Reaching_for_the_Sun.28x22.oil.png",
+					"title": "Reaching for the Sun",
+					"medium": "Oil",
+					"size": "28x22",
+					"index": "#5:4"
+                },
+				{
+					"fullURL": "imgs/land/full/morning_stroll_8x10.jpg",
+					"smallURL": "imgs/land/150_sq/morning_stroll_8x10.jpg",
+					"title": "Morning Stroll",
+					"medium": "Oil",
+					"size": "8x10",
+					"index": "#5:5"
+                },
+				{
+					"fullURL": "imgs/land/full/walk_in_the_fog_8x10.jpg",
+					"smallURL": "imgs/land/150_sq/walk_in_the_fog_8x10.jpg",
+					"title": "Walk in the Fog",
+					"medium": "Oil",
+					"size": "8x10",
+					"index": "#5:6"
+                },
+
+				{
+					"fullURL": "imgs/land/full/2-2.Farm_in_July.28x22.oil.png",
+					"smallURL": "imgs/land/150_sq/2-2.Farm_in_July.28x22.oil.png",
+					"title": "Farm in July",
+					"medium": "Oil",
+					"size": "28x22",
+					"index": "#5:7"
+                },
+				{
+					"fullURL": "imgs/land/full/2-3.Vinyard Number 5.20x16.oil.png",
+					"smallURL": "imgs/land/150_sq/2-3.Vinyard Number 5.20x16.oil.png",
+					"title": "Vineyard Number 5",
+					"medium": "Oil",
+					"size": "20x16",
+					"index": "#5:8"
                 }
             ]
         }
     ]
-
 };
 
 url = "";
@@ -590,8 +659,8 @@ reload();
 
 function reload() {
 	url = document.URL;
-	currentGallery = allImages["galleries"][0];
-	currentImage = currentGallery["images"][0];
+	currentGallery = allImages.galleries[0];
+	currentImage = currentGallery.images[0];
 	html = "";
 
 	pIndex = url.lastIndexOf("#");
@@ -601,8 +670,8 @@ function reload() {
 	prevIndex = imageIndex - 2;
 	nextIndex = imageIndex;
 
-	currentGallery = allImages["galleries"][galleryIndex];
-	currentImage = currentGallery["images"][imageIndex - 1];
+	currentGallery = allImages.galleries[galleryIndex];
+	currentImage = currentGallery.images[imageIndex - 1];
 
 	var titleTemplate = "<h3><a href = '{{&url}}'>{{&title}}</a></h3>";
 	html = Mustache.to_html(titleTemplate, currentGallery);

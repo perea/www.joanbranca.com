@@ -21,6 +21,11 @@
 	#Forms
 	#Misc */
 
+/*
+Import fonts
+*/
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
 
 /* #Reset & Basics (Inspired by E. Meyers)
 ================================================== */
@@ -51,8 +56,9 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #fff;
-		font: 14px/21px "Verdana", sans-serif;
+		background: #fdfdfd;
+		font: 16px/21px 'IBM Plex Sans', sans-serif;
+		font-weight:200;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -63,7 +69,8 @@
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
 		color: #181818;
-		font-family: "verdana", sans-serif;
+		font-family: 'Poiret One', cursive;
+		text-transform: uppercase;
 		font-weight: normal; }
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 	h1 { font-size: 46px; line-height: 50px; margin-bottom: 14px;}
@@ -81,6 +88,7 @@
 	em { font-style: italic; }
 	strong { font-weight: bold; color: #333; }
 	small { font-size: 80%; }
+sub {font-size: smaller; vertical-align:baseline;}
 
 /*	Blockquotes  */
 	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; font-style: italic; }
@@ -94,7 +102,7 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { color: #333333; text-decoration: underline; outline: 0; }
+	a, a:visited { color: #333333; outline: 0; }
 a.social-media, a.social-media:visited{color:#7cb3c4}
 	a:hover, a:focus { color: #000; }
 	p a, p a:visited { line-height: inherit; }
