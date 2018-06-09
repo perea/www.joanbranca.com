@@ -24,13 +24,57 @@
 ================================================== */
 
 	/* Smaller than standard 960 (devices and browsers) */
-	@media only screen and (max-width: 959px) {}
+	@media only screen and (max-width: 959px) {
+		
+		
+		.galleryTitle{
+			padding-bottom: 25px !important;
+		}
+		
+		#portfolioTarget {
+			text-align: center;
+		}
+		
+		#portfolioTarget li {
+			margin-bottom: 20px;
+		}
+		
+		#titleTarget h3{
+			text-align:center;
+			margin-bottom: 0;
+		}
+		
+		div#cv.thirteen.columns.leftAlign {
+			margin-left: 0px !important;
+		}
+		table td{
+			display: block;
+		}
+		p.newsInfo {
+			width: auto !important;
+		}
+		table tbody tr td img {
+			padding-left: 0 !important;
+		}
+}
 
 	/* Tablet Portrait size to standard 960 (devices and browsers) */
-	@media only screen and (min-width: 768px) and (max-width: 959px) {}
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+		div.sixteen.columns.pageContent.centerAlign {
+			padding-left: 6% !important;
+			text-align: center;
+		}
+		
+		
+}
 
 	/* All Mobile Sizes (devices and browser) */
-	@media only screen and (max-width: 767px) {}
+	@media only screen and (max-width: 767px) {
+		div.sixteen.columns.pageContent.centerAlign {
+			padding-left: 0 !important;
+		}
+		
+}
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 	@media only screen and (min-width: 480px) and (max-width: 767px) {}
